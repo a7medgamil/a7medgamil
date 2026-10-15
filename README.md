@@ -1,7 +1,7 @@
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg?v=luxury-20261016">
   <img src="assets/hero/hero-light.svg" width="100%" alt="Ahmed Gamil — Founder, Operator, Strategic Partner, Digital Systems Builder. Building organizations, digital products and operating systems where strategy, technology and execution meet.">
 </picture>
 
@@ -12,7 +12,7 @@
   <img src="assets/dossier/identity-strip-light.svg" width="100%" alt="Founder · Operator · Strategic Partner · Digital Systems Builder. 6 years of project management experience.">
 </picture>
 
-[PROFILE](#profile) · [VENTURES](#ventures) · [SYSTEMS](#systems) · [CAPABILITIES](#capabilities) · [PRINCIPLES](#principles) · [GITHUB](#github) · [CONNECT](#connect)
+[PROFILE](#user-content-profile) · [VENTURES](#user-content-ventures) · [SYSTEMS](#user-content-systems) · [CAPABILITIES](#user-content-capabilities) · [PRINCIPLES](#user-content-principles) · [GITHUB](#user-content-github) · [CONNECT](#user-content-connect)
 
 <a name="profile"></a>
 
@@ -89,16 +89,16 @@ A scholarship-focused initiative.
 
 ## <img src="assets/dossier/section-03.svg" width="28" alt=""> 03 / Featured Systems
 
-<a href="assets/projects/qadha-operations.webp">
 <h3>
+<a href="assets/projects/qadha-operations.webp">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/qadha-dark-mobile.webp">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/qadha-light-mobile.webp">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/qadha-dark.webp">
   <img src="assets/dossier/qadha-light.webp" width="100%" alt="QADHA · قدها — flagship digital product under Saltrixma. Real internal console evidence; placeholder tool values. Open the full-size capture for detail.">
 </picture>
-</h3>
 </a>
+</h3>
 
 **Flagship digital product developed under Saltrixma LLC**
 
