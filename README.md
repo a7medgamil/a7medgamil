@@ -248,6 +248,11 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 - Directed QADHA’s product definition and development under Saltrixma LLC.
 - Structured digital operating models around education and institutional workflows.
 
+### Academic Distinction
+
+- Ranked among the top 10 students nationally in Yemen's secondary-school examinations, with 98.88%.
+- Admitted to Jamal Abdul Nasser School for Gifted Students through a selective intake: 200 accepted from approximately 1,200 applicants.
+
 <a name="principles"></a>
 
 ## <img src="assets/dossier/section-06.svg" width="28" alt=""> 06 / Operating Principles
