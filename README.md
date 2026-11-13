@@ -55,6 +55,7 @@ The foundation of my journey was built through academic discipline and selective
 
 - **Saltrixma LLC:** CEO â€” a digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
 - **Superior Multiskills Institution:** Founder & Managing Director â€” an operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
+- **Educational impact:** Over the past three years, trained thousands of students, supporting learners who went on to achieve places among Yemen's top students nationally.
 - **Flunex Institute:** Education and institutional leadership focused on operations and program execution.
 - **Gate of Scholarships:** A scholarship-focused initiative.
 
