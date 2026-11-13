@@ -34,8 +34,9 @@ The foundation of my journey was built through academic discipline and selective
 
 1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
 2. **Gifted education:** admitted to **Jamal Abdul Nasser School for Gifted Students**, selected among approximately **200 students from 1,200 applicants**.
-3. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
-4. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
+3. **International scholarship:** awarded a **fully funded scholarship in Malaysia** to pursue a **Bachelorâ€™s degree in Computer Science at Albukhary International University (AIU)**.
+4. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
+5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
 <a name="ventures"></a>
 
