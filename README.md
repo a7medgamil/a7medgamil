@@ -1,29 +1,28 @@
+<p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg?v=luxury-20261016">
-  <img src="assets/hero/hero-light.svg" width="100%" alt="Ahmed Gamil — Founder, Operator, Strategic Partner, Digital Systems Builder. Building organizations, digital products and operating systems where strategy, technology and execution meet.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
+  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil — Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems where strategy, technology and execution meet.">
 </picture>
+</p>
 
-<picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/identity-strip-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/identity-strip-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/identity-strip-dark.svg">
-  <img src="assets/dossier/identity-strip-light.svg" width="100%" alt="Founder · Operator · Strategic Partner · Digital Systems Builder. 6 years of project management experience.">
-</picture>
-
-[PROFILE](#user-content-profile) · [VENTURES](#user-content-ventures) · [SYSTEMS](#user-content-systems) · [CAPABILITIES](#user-content-capabilities) · [PRINCIPLES](#user-content-principles) · [GITHUB](#user-content-github) · [CONNECT](#user-content-connect)
+<p align="center">
+<a href="#user-content-profile">PROFILE</a> · <a href="#user-content-ventures">VENTURES</a> · <a href="#user-content-systems">SYSTEMS</a> · <a href="#user-content-capabilities">CAPABILITIES</a> · <a href="#user-content-principles">PRINCIPLES</a> · <a href="#user-content-github">GITHUB</a> · <a href="#user-content-connect">CONNECT</a>
+</p>
 
 <a name="profile"></a>
 
-## <img src="assets/dossier/section-01.svg" width="28" alt=""> 01 / Executive Profile
+<h2 align="center"><img src="assets/dossier/section-01.svg" width="28" alt=""> 01 / Executive Profile</h2>
 
+<p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-dark.svg">
-  <img src="assets/dossier/profile-light.svg" width="100%" alt="6 years of hands-on project management experience. Founder of Saltrixma LLC and Superior Multiskills Institution. Technology, education and systems.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
+  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of hands-on project management experience; founder of Saltrixma LLC and Superior Multiskills Institution; working across technology, education and systems.">
 </picture>
+</p>
 
 I work across technology, education, digital products and institutional systems. With **6 years of hands-on project management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
@@ -31,65 +30,31 @@ My work connects strategy with execution: defining what should be built, structu
 
 <a name="ventures"></a>
 
-## <img src="assets/dossier/section-02.svg" width="28" alt=""> 02 / Leadership & Ventures
+<h2 align="center"><img src="assets/dossier/section-02.svg" width="28" alt=""> 02 / Leadership &amp; Ventures</h2>
 
-<h3>
+<p align="center">Leadership roles across technology, education and scholarship initiatives.</p>
+
+<p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/venture-saltrixma-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/venture-saltrixma-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/venture-saltrixma-dark.webp">
-  <img src="assets/dossier/venture-saltrixma-light.webp" width="100%" alt="Saltrixma LLC — Founder &amp; Managing Director">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
+  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four executive leadership cards: Founder and Managing Director of Saltrixma LLC; Founder and Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; Founder of Gate of Scholarships.">
 </picture>
-</h3>
+</p>
 
-**Founder & Managing Director**  
-A digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
+- **Saltrixma LLC:** A digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
+- **Superior Multiskills Institution:** An operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
+- **Flunex Institute:** Education and institutional leadership focused on operations and program execution.
+- **Gate of Scholarships:** A scholarship-focused initiative.
 
-[Company website →](https://saltrixma.com)
-
-<h3>
-<picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/venture-smi-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/venture-smi-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/venture-smi-dark.webp">
-  <img src="assets/dossier/venture-smi-light.webp" width="100%" alt="Superior Multiskills Institution — Founder &amp; Managing Director">
-</picture>
-</h3>
-
-**Founder & Managing Director**  
-An operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
-
-<h3>
-<picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/venture-flunex-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/venture-flunex-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/venture-flunex-dark.webp">
-  <img src="assets/dossier/venture-flunex-light.webp" width="100%" alt="Flunex Institute — Vice Director">
-</picture>
-</h3>
-
-**Vice Director**  
-Education and institutional leadership focused on operations and program execution.
-
-[Institute website →](https://flunexinstitute.com)
-
-<h3>
-<picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/venture-scholarships-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/venture-scholarships-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/venture-scholarships-dark.webp">
-  <img src="assets/dossier/venture-scholarships-light.webp" width="100%" alt="Gate of Scholarships — Founder">
-</picture>
-</h3>
-
-**Founder**  
-A scholarship-focused initiative.
+<p align="center"><a href="https://saltrixma.com">Saltrixma website</a> · <a href="https://flunexinstitute.com">Flunex Institute</a></p>
 
 <a name="systems"></a>
 
-## <img src="assets/dossier/section-03.svg" width="28" alt=""> 03 / Featured Systems
+<h2 align="center"><img src="assets/dossier/section-03.svg" width="28" alt=""> 03 / Featured Systems</h2>
 
-<h3>
+<p align="center">
 <a href="assets/projects/qadha-operations.webp">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/qadha-dark-mobile.webp">
@@ -98,7 +63,7 @@ A scholarship-focused initiative.
   <img src="assets/dossier/qadha-light.webp" width="100%" alt="QADHA · قدها — flagship digital product under Saltrixma. Real internal console evidence; placeholder tool values. Open the full-size capture for detail.">
 </picture>
 </a>
-</h3>
+</p>
 
 **Flagship digital product developed under Saltrixma LLC**
 
@@ -121,14 +86,14 @@ Live video integration, cinematic battle rendering, app-store billing and payout
 **Documented technology:** React Native · Expo · Next.js console · PostgreSQL.  
 [Public product website →](https://qadhaapp.com)
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/smi-dark-mobile.webp">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/smi-light-mobile.webp">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/smi-dark.webp">
   <img src="assets/dossier/smi-light.webp" width="100%" alt="SMI Digital Operations Ecosystem. Original diagram of documented operating scope, not a system screenshot or deployment claim.">
 </picture>
-</h3>
+</p>
 
 Coordinating student, academic, assessment, reporting and administrative workflows inside Superior Multiskills Institution.
 
@@ -140,93 +105,93 @@ The documented operating scope includes Student Gateway, attendance, sessions, l
 
 <a name="capabilities"></a>
 
-## <img src="assets/dossier/section-04.svg" width="28" alt=""> 04 / Technical Operating Stack
+<h2 align="center"><img src="assets/dossier/section-04.svg" width="28" alt=""> 04 / Technical Operating Stack</h2>
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-frontend-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark.svg">
   <img src="assets/dossier/capability-frontend-light.svg" width="100%" alt="Frontend &amp; Interface. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Next.js
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-backend-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark.svg">
   <img src="assets/dossier/capability-backend-light.svg" width="100%" alt="Backend &amp; Application Logic. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 PHP · Laravel · Node.js · Express.js · NestJS
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-data-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark.svg">
   <img src="assets/dossier/capability-data-light.svg" width="100%" alt="Data &amp; Cloud. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 MySQL · PostgreSQL · MongoDB · Redis · Supabase · Cloudflare R2
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-mobile-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark.svg">
   <img src="assets/dossier/capability-mobile-light.svg" width="100%" alt="Mobile Applications. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 Flutter · React Native · Expo · Mobile Backend Integration
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-infrastructure-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark.svg">
   <img src="assets/dossier/capability-infrastructure-light.svg" width="100%" alt="Infrastructure &amp; Deployment. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 Docker · cPanel Administration · Domain & DNS Management · Cloudflare · Nginx · Vercel
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-api-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark.svg">
   <img src="assets/dossier/capability-api-light.svg" width="100%" alt="APIs &amp; Real-Time Systems. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 REST API Development · Third-Party API Integration · Webhooks · WebSockets · LiveKit
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-security-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark.svg">
   <img src="assets/dossier/capability-security-light.svg" width="100%" alt="Security, Testing &amp; Engineering. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 OWASP Top 10 · Playwright · Git & GitHub · GitHub Actions
 
-<h3>
+<p align="center">
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-architecture-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark.svg">
   <img src="assets/dossier/capability-architecture-light.svg" width="100%" alt="AI, Architecture &amp; Product Engineering. Selected official technology marks; all verified capability names are listed below.">
 </picture>
-</h3>
+</p>
 
 OpenAI API Integration · n8n Automation · System Architecture · Full-Stack Integration · Requirements Analysis · Technical Project Planning
 
@@ -234,7 +199,7 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 
 <a name="milestones"></a>
 
-## <img src="assets/dossier/section-05.svg" width="28" alt=""> 05 / Verified Milestones
+<h2 align="center"><img src="assets/dossier/section-05.svg" width="28" alt=""> 05 / Verified Milestones</h2>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
@@ -255,7 +220,7 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 
 <a name="principles"></a>
 
-## <img src="assets/dossier/section-06.svg" width="28" alt=""> 06 / Operating Principles
+<h2 align="center"><img src="assets/dossier/section-06.svg" width="28" alt=""> 06 / Operating Principles</h2>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/principles-dark-mobile.svg">
@@ -283,13 +248,13 @@ An operating method: define the need, build the system, run the workflow and val
 
 <a name="github"></a>
 
-## <img src="assets/dossier/section-07.svg" width="28" alt=""> 07 / GitHub Activity
+<h2 align="center"><img src="assets/dossier/section-07.svg" width="28" alt=""> 07 / GitHub Activity</h2>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/github-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/github-dark.svg">
-  <img src="assets/dossier/github-light.svg" width="100%" alt="Public GitHub snapshot — verified 16 Oct 2026. a7medgamil/a7medgamil is a public profile repository on main. Selective public publication; no activity statistics fabricated.">
+  <img src="assets/dossier/github-light.svg" width="100%" alt="Public GitHub snapshot — verified 13 Nov 2026. a7medgamil/a7medgamil is a public profile repository on main. Selective public publication; no activity statistics fabricated.">
 </picture>
 
 Public repositories are used selectively for work intended for open publication. The products and institutional systems described above are represented here through public-safe evidence; their source code is not published in this profile.
@@ -298,7 +263,7 @@ Public repositories are used selectively for work intended for open publication.
 
 <a name="connect"></a>
 
-## <img src="assets/dossier/section-08.svg" width="28" alt=""> 08 / Professional Connections
+<h2 align="center"><img src="assets/dossier/section-08.svg" width="28" alt=""> 08 / Professional Connections</h2>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/connect-dark-mobile.svg">
@@ -307,11 +272,11 @@ Public repositories are used selectively for work intended for open publication.
   <img src="assets/dossier/connect-light.svg" width="100%" alt="Professional connections in technology, education, digital systems and ventures.">
 </picture>
 
-[GitHub · a7medgamil](https://github.com/a7medgamil) · [ahmed@saltrixma.com](mailto:ahmed@saltrixma.com)
+<p align="center"><a href="https://github.com/a7medgamil">GitHub · a7medgamil</a> · <a href="mailto:ahmed@saltrixma.com">ahmed@saltrixma.com</a></p>
 
 <a name="partnership"></a>
 
-## <img src="assets/dossier/section-09.svg" width="28" alt=""> 09 / Partnership
+<h2 align="center"><img src="assets/dossier/section-09.svg" width="28" alt=""> 09 / Partnership</h2>
 
 <a href="https://saltrixma.com/contact">
 <picture>
@@ -324,7 +289,7 @@ Public repositories are used selectively for work intended for open publication.
 
 Open to strategic partnerships, technology collaborations, institutional initiatives and new ventures where strong execution matters.
 
-**[Discuss a Partnership →](https://saltrixma.com/contact)**
+<p align="center"><strong><a href="https://saltrixma.com/contact">Discuss a Partnership →</a></strong></p>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/signature-dark-mobile.svg">
