@@ -264,6 +264,7 @@ Public repositories are used selectively for work intended for open publication.
 - [MIYTO Smart Rooms — product and engineering case study](https://github.com/a7medgamil/miyto-smart-rooms-showcase)
 - [QADHA Platform — product case study](https://github.com/a7medgamil/qadha-platform-showcase)
 - [SMI Digital Operations — institutional case study](https://github.com/a7medgamil/smi-digital-operations-showcase)
+
 [Explore public repositories →](https://github.com/a7medgamil?tab=repositories)
 
 <a name="connect"></a>
