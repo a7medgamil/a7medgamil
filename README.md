@@ -3,7 +3,7 @@
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
-  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil — Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems where strategy, technology and execution meet.">
+  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil â€” CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
 </picture>
 </p>
 
@@ -20,13 +20,22 @@
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
-  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of hands-on project management experience; founder of Saltrixma LLC and Superior Multiskills Institution; working across technology, education and systems.">
+  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of hands-on project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
 </picture>
 </p>
 
 I work across technology, education, digital products and institutional systems. With **6 years of hands-on project management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
 My work connects strategy with execution: defining what should be built, structuring how it should operate, and coordinating delivery around real organizational needs.
+
+### Academic Foundation & Journey
+
+The foundation of my journey was built through academic discipline and selective education:
+
+1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
+2. **Gifted education:** admitted to **Jamal Abdul Nasser School for Gifted Students**, selected among approximately **200 students from 1,200 applicants**.
+3. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
+4. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
 <a name="ventures"></a>
 
@@ -39,12 +48,12 @@ My work connects strategy with execution: defining what should be built, structu
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
-  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four executive leadership cards: Founder and Managing Director of Saltrixma LLC; Founder and Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; Founder of Gate of Scholarships.">
+  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four executive leadership cards: CEO of Saltrixma LLC; Founder and Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; Founder of Gate of Scholarships.">
 </picture>
 </p>
 
-- **Saltrixma LLC:** A digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
-- **Superior Multiskills Institution:** An operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
+- **Saltrixma LLC:** CEO â€” a digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
+- **Superior Multiskills Institution:** Founder & Managing Director â€” an operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
 - **Flunex Institute:** Education and institutional leadership focused on operations and program execution.
 - **Gate of Scholarships:** A scholarship-focused initiative.
 
@@ -205,18 +214,14 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark.svg">
-  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 6 years of project management; Founder &amp; Managing Director at Saltrixma and SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
+  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 6 years of project management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
 </picture>
 
-- Founded Saltrixma LLC, Superior Multiskills Institution and Gate of Scholarships.
+- Leads Saltrixma LLC as CEO, overseeing product direction and digital systems delivery.
+- Founded Superior Multiskills Institution and Gate of Scholarships.
 - Serves as Vice Director of Flunex Institute.
 - Directed QADHA’s product definition and development under Saltrixma LLC.
 - Structured digital operating models around education and institutional workflows.
-
-### Academic Distinction
-
-- Ranked among the top 10 students nationally in Yemen's secondary-school examinations, with 98.88%.
-- Admitted to Jamal Abdul Nasser School for Gifted Students through a selective intake: 200 accepted from approximately 1,200 applicants.
 
 <a name="principles"></a>
 
@@ -301,5 +306,5 @@ Open to strategic partnerships, technology collaborations, institutional initiat
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/signature-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/signature-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/signature-dark.svg">
-  <img src="assets/dossier/signature-light.svg" width="100%" alt="Ahmed Gamil — Founder, Operator, Strategic Partner, Digital Systems Builder. Technology, education, systems and ventures.">
+  <img src="assets/dossier/signature-light.svg" width="100%" alt="Ahmed Gamil â€” CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Technology, education, systems and ventures.">
 </picture>
