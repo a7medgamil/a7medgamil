@@ -20,11 +20,11 @@
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
-  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of hands-on project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
+  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="More than five years of hands-on project and operations management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
 </picture>
 </p>
 
-I work across technology, education, digital products and institutional systems. With **6 years of hands-on project management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
+I work across technology, education, digital products and institutional systems. With **5+ years of hands-on project and operations management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
 My work connects strategy with execution: defining what should be built, structuring how it should operate, and coordinating delivery around real organizational needs.
 
@@ -34,8 +34,8 @@ The foundation of my journey was built through academic discipline and selective
 
 1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
 2. **Gifted education:** admitted to **Jamal Abdul Nasser School for Gifted Students**, selected among approximately **200 students from 1,200 applicants**.
-3. **International scholarship:** awarded a **fully funded scholarship in Malaysia** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
-4. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
+3. **International scholarship:** awarded an **AIU scholarship covering tuition, university housing, a monthly stipend, and medical insurance** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
+4. **Professional development:** built more than five years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
 5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
 <a name="ventures"></a>
@@ -216,7 +216,7 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark.svg">
-  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 6 years of project management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
+  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 5+ years of project and operations management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
 </picture>
 
 - Leads Saltrixma LLC as CEO, overseeing product direction and digital systems delivery.
