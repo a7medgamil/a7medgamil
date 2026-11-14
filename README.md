@@ -24,7 +24,7 @@
 </picture>
 </p>
 
-I work across technology, education, digital products and institutional systems. With **6 years of project and operations management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
+I work across technology, education, digital products and institutional systems. With **6 years of project management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
 My work connects strategy with execution: defining what should be built, structuring how it should operate, and coordinating delivery around real organizational needs.
 
@@ -35,7 +35,7 @@ The foundation of my journey was built through academic discipline and selective
 1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
 2. **Gifted education:** admitted to **Gamal Abdel Nasser School for Outstanding Students**, selected among approximately **200 students from 1,200 applicants**.
 3. **International scholarship:** awarded an **AIU scholarship covering tuition, university housing, a monthly stipend, and medical insurance** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
-4. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
+4. **Professional development:** built six years of hands-on project management experience, translating academic discipline into institutional execution.
 5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
 ### Career Timeline
@@ -131,7 +131,9 @@ MIYTO structures SMI's secondary training into paired, level-aware audio rooms. 
 </picture>
 </p>
 
-Coordinating a documented 12-part digital environment across institutional access, learner platforms, registration, scholarships, course subscriptions, appointments, examinations, CRM and outreach. The institutional operating model is organized across eight domains, from student and academic operations to reporting, administration and executive oversight.
+Coordinating a documented inventory of 12 named applications and modules across institutional access, learner platforms, registration, scholarships, course subscriptions, appointments, examinations, CRM and outreach. The institutional operating model is organized across eight domains: Student Operations, Academic Operations, Teacher & Staff Operations, Assessment & Performance, Mental Training, Reporting & Analytics, Administration, and Executive & Financial Oversight.
+
+[SMI's eight-domain operating model →](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/docs/OPERATING-MODEL.md)
 
 **My role:** Founder & Managing Director — institutional operating model, requirements, execution and system oversight.
 
@@ -160,7 +162,7 @@ A curated set of **43 selected capabilities across eight operating areas**. Thes
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-frontend-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark.svg">
-  <img src="assets/dossier/capability-frontend-light.svg" width="100%" alt="Frontend &amp; Interface. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-frontend-light.svg" width="100%" alt="Frontend &amp; Interface. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -171,7 +173,7 @@ HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Next.js
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-backend-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark.svg">
-  <img src="assets/dossier/capability-backend-light.svg" width="100%" alt="Backend &amp; Application Logic. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-backend-light.svg" width="100%" alt="Backend &amp; Application Logic. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -182,7 +184,7 @@ PHP · Laravel · Node.js · Express.js · NestJS
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-data-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark.svg">
-  <img src="assets/dossier/capability-data-light.svg" width="100%" alt="Data &amp; Cloud. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-data-light.svg" width="100%" alt="Data &amp; Cloud. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -193,7 +195,7 @@ MySQL · PostgreSQL · MongoDB · Redis · Supabase · Cloudflare R2
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-mobile-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark.svg">
-  <img src="assets/dossier/capability-mobile-light.svg" width="100%" alt="Mobile Applications. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-mobile-light.svg" width="100%" alt="Mobile Applications. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -204,7 +206,7 @@ Flutter · React Native · Expo · Mobile Backend Integration
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-infrastructure-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark.svg">
-  <img src="assets/dossier/capability-infrastructure-light.svg" width="100%" alt="Infrastructure &amp; Deployment. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-infrastructure-light.svg" width="100%" alt="Infrastructure &amp; Deployment. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -215,7 +217,7 @@ Docker · cPanel Administration · Domain & DNS Management · Cloudflare · Ngin
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-api-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark.svg">
-  <img src="assets/dossier/capability-api-light.svg" width="100%" alt="APIs &amp; Real-Time Systems. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-api-light.svg" width="100%" alt="APIs &amp; Real-Time Systems. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -226,7 +228,7 @@ REST API Development · Third-Party API Integration · Webhooks · WebSockets ·
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-security-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark.svg">
-  <img src="assets/dossier/capability-security-light.svg" width="100%" alt="Security, Testing &amp; Engineering. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-security-light.svg" width="100%" alt="Security, Testing &amp; Engineering. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -237,7 +239,7 @@ OWASP Top 10 · Playwright · Git & GitHub · GitHub Actions
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-architecture-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark.svg">
-  <img src="assets/dossier/capability-architecture-light.svg" width="100%" alt="AI, Architecture &amp; Product Engineering. Selected official technology marks; all verified capability names are listed below.">
+  <img src="assets/dossier/capability-architecture-light.svg" width="100%" alt="AI, Architecture &amp; Product Engineering. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -247,13 +249,13 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 
 <a name="milestones"></a>
 
-<h2 align="center"><img src="assets/dossier/section-05.svg" width="28" alt=""> 05 / Verified Milestones</h2>
+<h2 align="center"><img src="assets/dossier/section-05.svg" width="28" alt=""> 05 / Selected Milestones</h2>
 
 <picture>
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark.svg">
-  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 6 years of project and operations management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
+  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Selected record: 6 years of project management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
 </picture>
 
 - Leads Saltrixma LLC as CEO, overseeing product direction and digital systems delivery.
