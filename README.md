@@ -106,13 +106,15 @@ Live video integration, cinematic battle rendering, app-store billing and payout
 </picture>
 </p>
 
-Coordinating student, academic, assessment, reporting and administrative workflows inside Superior Multiskills Institution.
+Coordinating a documented 12-part digital environment across institutional access, learner platforms, registration, scholarships, course subscriptions, appointments, examinations, CRM and outreach.
 
 **My role:** Founder & Managing Director — institutional operating model, requirements, execution and system oversight.
 
-The documented operating scope includes Student Gateway, attendance, sessions, learning materials and homework, assessments, progress reports, certificates, scheduling, teacher/admin operations and mental training.
+**Public route check · 15 Nov 2026:** the main SMI website, Secondary Training, Student Gateway, Scholarships, Course Subscription and SCI Appointments each returned HTTP 200. This confirms route reachability, not full workflow acceptance.
 
-<sub>Operating scope is documented in the institutional record. Approved operational screenshots and public deployment evidence are not yet available.</sub>
+The inventory also records the Registration Hub, Registration Control Center, Scholarship Control Center, examinations within Student Gateway, CRM Leads and Outreach within Secondary Training. Staff-only routes and learner records are deliberately not published.
+
+[Explore the SMI portfolio record](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/smi#digital-systems) · [Read the public system inventory](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/docs/SYSTEM-INVENTORY.md)
 
 <a name="capabilities"></a>
 
