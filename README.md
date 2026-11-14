@@ -38,20 +38,29 @@ The foundation of my journey was built through academic discipline and selective
 4. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
 5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
+### Career Timeline
+
+- **2019–2020 · Academic formation:** selected for Gamal Abdel Nasser School for Outstanding Students; founded Gate of Scholarships; began planning SMI and its educational work.
+- **2022–2023 · Academic distinction:** achieved 98.88%, placed among the Republic's top students and launched educational evening sessions.
+- **2023–2024 · International education:** received a fully funded scholarship and enrolled in Computer Science at Albukhary International University in Malaysia.
+- **2024 · Institutional leadership:** served as Vice Director of Flunex Institute and contributed to its website, identity and academic materials.
+- **2024 · Technology entrepreneurship:** founded Saltrixma LLC and took the CEO role, setting direction for digital products and business systems.
+- **2025–2026 · Digital transformation:** led SMI's digital transformation, advanced MIYTO Smart Rooms and directed QADHA product and systems development.
+
+[Full career timeline in the portfolio →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/profile)
+
 <a name="ventures"></a>
 
 <h2 align="center"><img src="assets/dossier/section-02.svg" width="28" alt=""> 02 / Leadership &amp; Ventures</h2>
 
 <p align="center">Leadership roles across technology, education and scholarship initiatives.</p>
 
-<p align="center">
-<picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
-  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four executive leadership cards: CEO of Saltrixma LLC; Founder and Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; Founder of Gate of Scholarships.">
-</picture>
-</p>
+| Organization | Role | Operating focus |
+|---|---|---|
+| **Saltrixma LLC** | **CEO** | Digital products, technology and business systems |
+| **Superior Multiskills Institution** | **Founder & Managing Director** | Education, academic operations and institutional systems |
+| **Flunex Institute** | **Vice Director** | Institutional leadership, website and academic identity |
+| **Gate of Scholarships** | **Founder** | Scholarship access and student opportunity |
 
 - **Saltrixma LLC:** CEO — a digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
 - **Superior Multiskills Institution:** Founder & Managing Director — an operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
@@ -90,6 +99,8 @@ A social video and challenge application bringing content, interaction, messagin
 
 Live video integration, cinematic battle rendering, app-store billing and payouts remain proposed.
 
+The Saltrixma portfolio records six related systems: QADHA, the operations console, battle authority, test economy, company website and rights-gated content migration.
+
 [Inspect the full-size console capture →](assets/projects/qadha-operations.webp)
 
 <sub>Operations-console evidence from the executive portfolio. Internal development environment; tool values are placeholders. Open the image for detail. This capture does not establish public launch or live video availability.</sub>
@@ -120,7 +131,7 @@ MIYTO structures SMI's secondary training into paired, level-aware audio rooms. 
 </picture>
 </p>
 
-Coordinating a documented 12-part digital environment across institutional access, learner platforms, registration, scholarships, course subscriptions, appointments, examinations, CRM and outreach.
+Coordinating a documented 12-part digital environment across institutional access, learner platforms, registration, scholarships, course subscriptions, appointments, examinations, CRM and outreach. The institutional operating model is organized across eight domains, from student and academic operations to reporting, administration and executive oversight.
 
 **My role:** Founder & Managing Director — institutional operating model, requirements, execution and system oversight.
 
@@ -142,7 +153,7 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 
 <h2 align="center"><img src="assets/dossier/section-04.svg" width="28" alt=""> 04 / Technical Operating Stack</h2>
 
-A curated set of **43 selected capabilities across eight operating areas**. These describe the documented technical stack and work context; they are not proficiency ratings.
+A curated set of **43 selected capabilities across eight operating areas**. These describe the documented technical stack and work context; they are not proficiency ratings. [Explore the full capability atlas →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/capabilities)
 
 <p align="center">
 <picture>
