@@ -3,12 +3,12 @@
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
-  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil â€” CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
+  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
 </picture>
 </p>
 
 <p align="center">
-<a href="#user-content-profile">PROFILE</a> · <a href="#user-content-ventures">VENTURES</a> · <a href="#user-content-systems">SYSTEMS</a> · <a href="#user-content-capabilities">CAPABILITIES</a> · <a href="#user-content-principles">PRINCIPLES</a> · <a href="#user-content-github">GITHUB</a> · <a href="#user-content-connect">CONNECT</a>
+<a href="#user-content-profile">PROFILE</a> · <a href="#user-content-ventures">VENTURES</a> · <a href="#user-content-systems">SYSTEMS</a> · <a href="#user-content-capabilities">CAPABILITIES</a> · <a href="#user-content-principles">PRINCIPLES</a> · <a href="#user-content-github">GITHUB</a> · <a href="#user-content-connect">CONNECT</a> · <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev">PORTFOLIO</a>
 </p>
 
 <a name="profile"></a>
@@ -20,11 +20,11 @@
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
-  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="More than five years of hands-on project and operations management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
+  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
 </picture>
 </p>
 
-I work across technology, education, digital products and institutional systems. With **5+ years of hands-on project and operations management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
+I work across technology, education, digital products and institutional systems. With **6 years of project and operations management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
 My work connects strategy with execution: defining what should be built, structuring how it should operate, and coordinating delivery around real organizational needs.
 
@@ -35,7 +35,7 @@ The foundation of my journey was built through academic discipline and selective
 1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
 2. **Gifted education:** admitted to **Jamal Abdul Nasser School for Gifted Students**, selected among approximately **200 students from 1,200 applicants**.
 3. **International scholarship:** awarded an **AIU scholarship covering tuition, university housing, a monthly stipend, and medical insurance** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
-4. **Professional development:** built more than five years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
+4. **Professional development:** built six years of hands-on experience in project and operations management, translating academic discipline into institutional execution.
 5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
 
 <a name="ventures"></a>
@@ -53,13 +53,13 @@ The foundation of my journey was built through academic discipline and selective
 </picture>
 </p>
 
-- **Saltrixma LLC:** CEO â€” a digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
+- **Saltrixma LLC:** CEO — a digital systems and technology venture building products, operational tools and structured technical solutions. QADHA is its flagship digital product.
 - **Superior Multiskills Institution:** Founder & Managing Director â€” an operating education institution combining English-language learning, structured academic operations, secondary practice and mental training, supported by digital systems.
 - **Educational impact:** Over the past three years, trained thousands of students, supporting learners who went on to achieve places among Yemen's top students nationally.
 - **Flunex Institute:** Education and institutional leadership focused on operations and program execution.
 - **Gate of Scholarships:** A scholarship-focused initiative.
 
-<p align="center"><a href="https://saltrixma.com">Saltrixma website</a> · <a href="https://flunexinstitute.com">Flunex Institute</a></p>
+<p align="center"><a href="https://saltrixma.com">Saltrixma website</a> · <a href="https://flunexinstitute.com">Flunex Institute</a> · <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/leadership/flunex">Flunex leadership record</a> · <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/leadership/gate-of-scholarships">Gate of Scholarships record</a></p>
 
 <a name="systems"></a>
 
@@ -95,7 +95,21 @@ Live video integration, cinematic battle rendering, app-store billing and payout
 <sub>Operations-console evidence from the executive portfolio. Internal development environment; tool values are placeholders. Open the image for detail. This capture does not establish public launch or live video availability.</sub>
 
 **Documented technology:** React Native · Expo · Next.js console · PostgreSQL.  
-[Public product website →](https://qadhaapp.com)
+[Public product website →](https://qadhaapp.com) · [Product case study →](https://github.com/a7medgamil/qadha-platform-showcase) · [Saltrixma portfolio →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/saltrixma)
+
+### MIYTO Smart Rooms — audio-first learning operations
+
+MIYTO structures SMI's secondary training into paired, level-aware audio rooms. Learners move through timed silent-practice rounds before moderated speaking discussions, while attendance and supervisor actions are handled through defined operating rules.
+
+- Paired rooms with automatic level-aware grouping.
+- Three timed practice rounds: mental training, vocabulary and a second vocabulary round with mic and chat closed.
+- A 20-question discussion board after the silent rounds.
+- Minute-based attendance and conditional weekly assessment.
+- Supervisor controls for broadcast, mute, transfer, chat lock and special time.
+
+**My role:** Founder & Managing Director of SMI — product direction, requirements and operating rules.
+
+[MIYTO product case study →](https://github.com/a7medgamil/miyto-smart-rooms-showcase) · [Portfolio case study →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/miyto-smart-rooms) · [Student experience →](https://secondary-session.smi-platform.org/)
 
 <p align="center">
 <picture>
@@ -112,13 +126,23 @@ Coordinating a documented 12-part digital environment across institutional acces
 
 **Public route check · 15 Nov 2026:** the main SMI website, Secondary Training, Student Gateway, Scholarships, Course Subscription and SCI Appointments each returned HTTP 200. This confirms route reachability, not full workflow acceptance.
 
-The inventory also records the Registration Hub, Registration Control Center, Scholarship Control Center, examinations within Student Gateway, CRM Leads and Outreach within Secondary Training. Staff-only routes and learner records are deliberately not published.
+The inventory also records the Registration Hub, Registration Control Center, Scholarship Control Center, examinations within Student Gateway, CRM Leads and Outreach within Secondary Training. Staff-only routes and learner records are deliberately not published. The Registration Hub is separately documented as a specified workflow; its current release and route remain unverified.
 
-[Explore the SMI portfolio record](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/smi#digital-systems) · [Read the public system inventory](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/docs/SYSTEM-INVENTORY.md)
+[Explore the SMI portfolio record](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/smi#digital-systems) · [Registration Hub case study](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/smi-registration-hub) · [Read the public system inventory](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/docs/SYSTEM-INVENTORY.md)
+
+### HR & NLP CV Summarizer — AIU Computer Science FYP
+
+An academic design project exploring an HR portal to summarise and rank fewer than 10 CVs at a time against seven fixed dimensions: Qualifications, Experience, Location & Relocation, Soft and Hard Skills, References, Personal Information, and Rewards.
+
+**My role:** Computer Science student, FYP contributor and designer. The ERD was approved for university submission. Cloudflare Pages and Workers were considered as hosting options; the project is not presented as deployed, and no model-accuracy or hiring-outcome claims are made.
+
+[Public academic case study →](https://github.com/a7medgamil/aiu-smart-hr-showcase) · [Portfolio case study →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/hr-nlp-cv-summarizer)
 
 <a name="capabilities"></a>
 
 <h2 align="center"><img src="assets/dossier/section-04.svg" width="28" alt=""> 04 / Technical Operating Stack</h2>
+
+A curated set of **43 selected capabilities across eight operating areas**. These describe the documented technical stack and work context; they are not proficiency ratings.
 
 <p align="center">
 <picture>
@@ -218,7 +242,7 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark.svg">
-  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 5+ years of project and operations management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
+  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Verified record: 6 years of project and operations management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
 </picture>
 
 - Leads Saltrixma LLC as CEO, overseeing product direction and digital systems delivery.
@@ -263,7 +287,7 @@ An operating method: define the need, build the system, run the workflow and val
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/github-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/github-dark.svg">
-  <img src="assets/dossier/github-light.svg" width="100%" alt="Public GitHub snapshot — verified 13 Nov 2026. a7medgamil/a7medgamil is a public profile repository on main. Selective public publication; no activity statistics fabricated.">
+  <img src="assets/dossier/github-light.svg" width="100%" alt="Public GitHub snapshot — verified 15 Nov 2026. Public case-study repositories are maintained separately from private application source. No activity statistics fabricated.">
 </picture>
 
 Public repositories are used selectively for work intended for open publication. The products and institutional systems described above are represented here through public-safe evidence; their source code is not published in this profile.
@@ -273,6 +297,9 @@ Public repositories are used selectively for work intended for open publication.
 - [MIYTO Smart Rooms — product and engineering case study](https://github.com/a7medgamil/miyto-smart-rooms-showcase)
 - [QADHA Platform — product case study](https://github.com/a7medgamil/qadha-platform-showcase)
 - [SMI Digital Operations — institutional case study](https://github.com/a7medgamil/smi-digital-operations-showcase)
+- [AIU Smart HR & NLP CV Summarizer — academic design case study](https://github.com/a7medgamil/aiu-smart-hr-showcase)
+
+**Portfolio case studies:** [MIYTO](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/miyto-smart-rooms) · [SMI Digital Learning & Operations](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/smi-digital-learning-platform) · [SMI Registration Hub](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/smi-registration-hub) · [AIU HR & NLP](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/hr-nlp-cv-summarizer)
 
 [Explore public repositories →](https://github.com/a7medgamil?tab=repositories)
 
@@ -287,7 +314,7 @@ Public repositories are used selectively for work intended for open publication.
   <img src="assets/dossier/connect-light.svg" width="100%" alt="Professional connections in technology, education, digital systems and ventures.">
 </picture>
 
-<p align="center"><a href="https://github.com/a7medgamil">GitHub · a7medgamil</a> · <a href="mailto:ahmed@saltrixma.com">ahmed@saltrixma.com</a></p>
+<p align="center"><a href="https://github.com/a7medgamil">GitHub · a7medgamil</a> · <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev">Executive Portfolio</a> · <a href="https://saltrixma.com">Saltrixma LLC</a> · <a href="mailto:ahmed@saltrixma.com">ahmed@saltrixma.com</a></p>
 
 <a name="partnership"></a>
 
@@ -310,5 +337,5 @@ Open to strategic partnerships, technology collaborations, institutional initiat
   <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/signature-dark-mobile.svg">
   <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/signature-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/signature-dark.svg">
-  <img src="assets/dossier/signature-light.svg" width="100%" alt="Ahmed Gamil â€” CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Technology, education, systems and ventures.">
+  <img src="assets/dossier/signature-light.svg" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Technology, education, systems and ventures.">
 </picture>
