@@ -1,0 +1,43 @@
+name: Refresh executive contribution trail
+
+on:
+  schedule:
+    - cron: "13 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/contribution-trail.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: executive-contribution-trail
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate a copper-and-gold contribution animation
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: a7medgamil
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23A97843&color_dots=%23F3EEE4,%23E2CDA7,%23C99B60,%23A97843,%236B472A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F4D18A&color_dots=%230B1018,%233B2D20,%23734F2D,%23B9824A,%23F4D18A
+
+      - name: Publish the generated SVGs to the dedicated output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git -C dist init
+          git -C dist config user.name "github-actions[bot]"
+          git -C dist config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C dist add --all
+          git -C dist commit -m "chore: refresh contribution trail"
+          git -C dist push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
