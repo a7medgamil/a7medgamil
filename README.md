@@ -46,6 +46,15 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">Leadership roles across technology, education and scholarship initiatives.</p>
 
+<p align="center">
+<picture>
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
+  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four premium leadership cards representing Saltrixma LLC, Superior Multiskills Institution, Flunex Institute, and Gate of Scholarships.">
+</picture>
+</p>
+
 | Organization | Role | Operating focus |
 |---|---|---|
 | **Saltrixma LLC** | **CEO** | Digital products, technology and business systems |
