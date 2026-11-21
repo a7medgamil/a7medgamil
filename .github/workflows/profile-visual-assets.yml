@@ -10,6 +10,11 @@ on:
       - 'scripts/check-profile-motion.mjs'
       - 'scripts/build-profile-motion.py'
       - 'scripts/build-github-signal.py'
+      - 'scripts/build-live-profile.cjs'
+      - 'scripts/build-live-hero.cjs'
+      - 'scripts/enable-live-profile.py'
+      - 'scripts/optimize-live-profile.py'
+      - 'scripts/check-live-profile.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   pull_request:
     paths:
@@ -20,6 +25,11 @@ on:
       - 'scripts/check-profile-motion.mjs'
       - 'scripts/build-profile-motion.py'
       - 'scripts/build-github-signal.py'
+      - 'scripts/build-live-profile.cjs'
+      - 'scripts/build-live-hero.cjs'
+      - 'scripts/enable-live-profile.py'
+      - 'scripts/optimize-live-profile.py'
+      - 'scripts/check-live-profile.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   workflow_dispatch:
 
@@ -43,3 +53,5 @@ jobs:
         run: node scripts/check-profile-assets.mjs
       - name: Ensure all responsive motion designs preserve static originals and accessibility
         run: node scripts/check-profile-motion.mjs
+      - name: Verify all luminous GIFs, reduced-motion originals, and executive sections
+        run: node scripts/check-live-profile.mjs

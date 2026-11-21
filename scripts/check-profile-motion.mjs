@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const readme = readFileSync(resolve(root, 'README.md'), 'utf8');
 const refs = [...new Set([...readme.matchAll(/assets\/[\w./-]+-motion\.svg/g)].map(x => x[0]))];
-const targetCount = 24;
+const targetCount = 12; // 12 legacy SVG variants remain in the README; the other 12 now use independently tested looping GIFs.
 assert.equal(refs.length, targetCount, 'All six approved art families must have four responsive/theme motion variants');
 
 for (const name of refs) {

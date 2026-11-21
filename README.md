@@ -1,9 +1,13 @@
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile-motion.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile-motion.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-motion.svg">
-  <img src="assets/hero/hero-centered-light-motion.svg" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/hero/hero-centered-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/hero-centered-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/hero-centered-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/hero-centered-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/hero-centered-dark.gif">
+  <img src="assets/live/hero-centered-light.gif" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
 </picture>
 </p>
 
@@ -37,10 +41,14 @@ I lead technology-enabled institutional operations and product delivery across e
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile-motion.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile-motion.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-motion.svg">
-  <img src="assets/dossier/profile-card-light-motion.svg" width="100%" alt="Six years of project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/profile-card-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/profile-card-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/profile-card-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/profile-card-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/profile-card-dark.gif">
+  <img src="assets/live/profile-card-light.gif" width="100%" alt="Six years of project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
 </picture>
 </p>
 
@@ -56,10 +64,14 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
-  <img src="assets/dossier/ventures-grid-light.webp" width="100%" alt="Four premium leadership cards representing Saltrixma LLC, Superior Multiskills Institution, Flunex Institute, and Gate of Scholarships.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/ventures-grid-light.webp">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/ventures-grid-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/ventures-grid-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/ventures-grid-dark.gif">
+  <img src="assets/live/ventures-grid-light.gif" width="100%" alt="Four premium leadership cards representing Saltrixma LLC, Superior Multiskills Institution, Flunex Institute, and Gate of Scholarships.">
 </picture>
 </p>
 
@@ -167,10 +179,14 @@ A curated set of **43 selected capabilities across eight operating areas**. Thes
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-frontend-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark.svg">
-  <img src="assets/dossier/capability-frontend-light.svg" width="100%" alt="Frontend &amp; Interface. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-frontend-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-frontend-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-frontend-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-frontend-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-frontend-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-frontend-dark.gif">
+  <img src="assets/live/capability-frontend-light.gif" width="100%" alt="Frontend &amp; Interface. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -178,10 +194,14 @@ HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Next.js
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-backend-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark.svg">
-  <img src="assets/dossier/capability-backend-light.svg" width="100%" alt="Backend &amp; Application Logic. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-backend-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-backend-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-backend-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-backend-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-backend-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-backend-dark.gif">
+  <img src="assets/live/capability-backend-light.gif" width="100%" alt="Backend &amp; Application Logic. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -189,10 +209,14 @@ PHP · Laravel · Node.js · Express.js · NestJS
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-data-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark.svg">
-  <img src="assets/dossier/capability-data-light.svg" width="100%" alt="Data &amp; Cloud. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-data-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-data-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-data-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-data-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-data-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-data-dark.gif">
+  <img src="assets/live/capability-data-light.gif" width="100%" alt="Data &amp; Cloud. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -200,10 +224,14 @@ MySQL · PostgreSQL · MongoDB · Redis · Supabase · Cloudflare R2
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-mobile-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark.svg">
-  <img src="assets/dossier/capability-mobile-light.svg" width="100%" alt="Mobile Applications. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-mobile-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-mobile-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-mobile-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-mobile-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-mobile-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-mobile-dark.gif">
+  <img src="assets/live/capability-mobile-light.gif" width="100%" alt="Mobile Applications. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -211,10 +239,14 @@ Flutter · React Native · Expo · Mobile Backend Integration
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-infrastructure-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark.svg">
-  <img src="assets/dossier/capability-infrastructure-light.svg" width="100%" alt="Infrastructure &amp; Deployment. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-infrastructure-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-infrastructure-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-infrastructure-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-infrastructure-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-infrastructure-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-infrastructure-dark.gif">
+  <img src="assets/live/capability-infrastructure-light.gif" width="100%" alt="Infrastructure &amp; Deployment. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -222,10 +254,14 @@ Docker · cPanel Administration · Domain & DNS Management · Cloudflare · Ngin
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-api-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark.svg">
-  <img src="assets/dossier/capability-api-light.svg" width="100%" alt="APIs &amp; Real-Time Systems. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-api-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-api-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-api-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-api-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-api-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-api-dark.gif">
+  <img src="assets/live/capability-api-light.gif" width="100%" alt="APIs &amp; Real-Time Systems. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -233,10 +269,14 @@ REST API Development · Third-Party API Integration · Webhooks · WebSockets ·
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-security-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark.svg">
-  <img src="assets/dossier/capability-security-light.svg" width="100%" alt="Security, Testing &amp; Engineering. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-security-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-security-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-security-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-security-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-security-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-security-dark.gif">
+  <img src="assets/live/capability-security-light.gif" width="100%" alt="Security, Testing &amp; Engineering. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -244,10 +284,14 @@ OWASP Top 10 · Playwright · Git & GitHub · GitHub Actions
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/capability-architecture-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark.svg">
-  <img src="assets/dossier/capability-architecture-light.svg" width="100%" alt="AI, Architecture &amp; Product Engineering. Selected official technology marks; all documented capability names are listed below.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/capability-architecture-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/capability-architecture-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/capability-architecture-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/capability-architecture-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/capability-architecture-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/capability-architecture-dark.gif">
+  <img src="assets/live/capability-architecture-light.gif" width="100%" alt="AI, Architecture &amp; Product Engineering. Selected official technology marks; all documented capability names are listed below.">
 </picture>
 </p>
 
@@ -313,10 +357,14 @@ The foundation of my journey was built through academic discipline and selective
 **Let evidence set the claim.** Product status, technical scope and public proof should stay aligned.
 
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-mobile-motion.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/workflow-light-mobile-motion.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-motion.svg">
-  <img src="assets/dossier/workflow-light-motion.svg" width="100%" alt="The operating method: Strategy → Requirements → System design → Implementation → Operations → Evidence → Scale.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/workflow-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/workflow-light.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/workflow-dark-mobile.gif">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/workflow-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/live/workflow-dark.gif">
+  <img src="assets/live/workflow-light.gif" width="100%" alt="The operating method: Strategy → Requirements → System design → Implementation → Operations → Evidence → Scale.">
 </picture>
 
 An operating method: define the need, build the system, run the workflow and validate the evidence before scaling.

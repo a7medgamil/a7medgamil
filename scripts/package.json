@@ -1,0 +1,13 @@
+{
+  "name": "a7medgamil-profile-motion-build",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Optional local build dependencies for GitHub README motion assets; not used by CI.",
+  "scripts": {
+    "build": "node build-live-profile.cjs && node build-live-hero.cjs",
+    "check": "node check-live-profile.mjs && node check-profile-motion.mjs && node check-profile-assets.mjs"
+  },
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}
