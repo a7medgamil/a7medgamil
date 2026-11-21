@@ -20,6 +20,23 @@
 </p>
 
 <p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=23&duration=3200&pause=950&color=D9B76E&center=true&vCenter=true&width=1150&height=52&lines=Founder+%26+CEO+%C2%B7+Saltrixma+LLC;Founder+%26+Managing+Director+%C2%B7+SMI;Product+Direction+%26+Technical+Delivery;Institutional+Digital+Transformation;Building+systems+where+strategy+meets+execution" alt="Animated executive focus: Saltrixma leadership, SMI leadership, product direction, technical delivery and institutional digital transformation." />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7medgamil&style=for-the-badge&label=PROFILE+VIEWS&color=C89756" alt="GitHub profile views" />
+  <a href="https://github.com/a7medgamil?tab=followers"><img src="https://img.shields.io/github/followers/a7medgamil?style=for-the-badge&label=FOLLOWERS&color=C89756&labelColor=0B1018&logo=github&logoColor=F4F0E7" alt="GitHub followers" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev"><img src="https://img.shields.io/badge/EXECUTIVE_PORTFOLIO-EXPLORE-D9B76E?style=for-the-badge&labelColor=0B1018&logo=firefox&logoColor=F4F0E7" alt="Executive portfolio" /></a>
+  <a href="https://saltrixma.com"><img src="https://img.shields.io/badge/SALTRIXMA-TECHNOLOGY%20%26%20SYSTEMS-C98554?style=for-the-badge&labelColor=0B1018" alt="Saltrixma LLC" /></a>
+  <a href="mailto:ahmed@saltrixma.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-D9B76E?style=for-the-badge&labelColor=0B1018&logo=gmail&logoColor=F4F0E7" alt="Contact by email" /></a>
+</p>
+
+<p align="center">
 <a href="#user-content-profile">PROFILE</a> · <a href="#user-content-ventures">VENTURES</a> · <a href="#user-content-systems">SYSTEMS</a> · <a href="#user-content-capabilities">CAPABILITIES</a> · <a href="#user-content-principles">PRINCIPLES</a> · <a href="#user-content-github">GITHUB</a> · <a href="#user-content-connect">CONNECT</a> · <a href="https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev">PORTFOLIO</a>
 </p>
 
@@ -379,6 +396,18 @@ An operating method: define the need, build the system, run the workflow and val
   <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-motion.svg">
   <img src="assets/dossier/github-light-motion.svg" width="100%" alt="Public GitHub snapshot — verified 15 Nov 2026. Public case-study repositories are maintained separately from private application source. No activity statistics fabricated.">
 </picture>
+
+### Contribution trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a7medgamil/a7medgamil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a7medgamil/a7medgamil/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/a7medgamil/a7medgamil/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution trail in copper and gold, refreshed daily from the public contribution calendar." />
+  </picture>
+</p>
+
+<sub>Daily refreshed from the public contribution calendar; the animation reflects recorded GitHub activity rather than generated statistics.</sub>
 
 Public repositories are used selectively for work intended for open publication. The products and institutional systems described above are represented here through public-safe evidence; their source code is not published in this profile.
 
