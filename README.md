@@ -19,18 +19,7 @@
 
 I lead technology-enabled institutional operations and product delivery across education and software. My work combines requirement definition, cross-functional coordination, systems thinking, implementation oversight and evidence-based review. The projects below distinguish **leadership accountability**, **documented engineering checks**, and **areas still in development**.
 
-| Inspect first | What the public record establishes | My professional focus |
-|---|---|---|
-| [MIYTO Smart Rooms](https://github.com/a7medgamil/miyto-smart-rooms-showcase) | [Runnable synthetic Room State Lab](https://github.com/a7medgamil/miyto-smart-rooms-showcase/tree/main/demo/room-state-lab) with 26 passing automated checks, independently exercised desktop/mobile flows, and [successful main-branch CI](https://github.com/a7medgamil/miyto-smart-rooms-showcase/actions/runs/44894982610); **not** live audio or production capacity evidence | Technical delivery, lifecycle design, testing discipline |
-| [SMI Digital Operations](https://github.com/a7medgamil/smi-digital-operations-showcase) | Eight operating domains, a 12-item application/module inventory, plus an [independent Operations Case Lab](https://github.com/a7medgamil/smi-digital-operations-showcase/tree/main/demo/operations-case-lab) (39 automated tests, 38 browser checks and [green main CI](https://github.com/a7medgamil/smi-digital-operations-showcase/actions/runs/44895321053)); all demo records are fictional | Digital transformation, operations design, product workflows |
-| [QADHA Platform](https://github.com/a7medgamil/qadha-platform-showcase) | Product architecture and an [original synthetic Battle Rules Lab](https://github.com/a7medgamil/qadha-platform-showcase/tree/main/demo/battle-rule-lab): 36 automated tests, 60 desktop/mobile browser checks and [successful main CI](https://github.com/a7medgamil/qadha-platform-showcase/actions/runs/44896934520); **not** production competition, video or payment validation | Product direction, rules and technical governance |
-| [AIU Smart HR](https://github.com/a7medgamil/aiu-smart-hr-showcase) | [Fictional HR desktop/mobile previews](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/MILESTONE1-SYNTHETIC-QA-EVIDENCE.md) and a documented **private** Milestone 1 QA review (12 tests, 42 SQLite assertions, 44 viewport checks, 11 interactions); code/CI are not public, and **no deployed NLP/AI model is claimed** | Computer science, academic requirements, data integrity and human-centered evaluation |
-
 **For a 2-minute technical review:** [Run the MIYTO simulation locally](https://github.com/a7medgamil/miyto-smart-rooms-showcase/blob/main/demo/room-state-lab/README.md) · [Run the SMI operations simulation locally](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/demo/operations-case-lab/README.md) · [Inspect the QADHA battle rules demo](https://github.com/a7medgamil/qadha-platform-showcase/blob/main/demo/battle-rule-lab/README.md) · [View the fictional AIU HR prototype](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/MILESTONE1-SYNTHETIC-QA-EVIDENCE.md) · [Executive portfolio](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev) · [Evidence room](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/evidence) · [Contact](mailto:ahmed@saltrixma.com)
-
-*Code-level proof and product-level evidence serve different purposes. Proprietary production repositories remain private; public examples are provided only when independently reproducible and safe to disclose.*
-
-**Public navigation QA (21 Nov 2026):** 34/34 README HTTP HEAD destinations reachable; 86/86 referenced visual asset paths present in the Git tree. [Audit methodology and limitations](docs/RECRUITER-LINK-AND-ASSET-AUDIT-20261121.md). These checks do not validate product operation, company claims or browser accessibility.
 
 ---
 
@@ -50,27 +39,6 @@ I lead technology-enabled institutional operations and product delivery across e
 I work across technology, education, digital products and institutional systems. With **6 years of project management experience**, I turn complex requirements into operating structures, products, workflows and technical systems.
 
 My work connects strategy with execution: defining what should be built, structuring how it should operate, and coordinating delivery around real organizational needs.
-
-### Academic Foundation & Journey
-
-The foundation of my journey was built through academic discipline and selective education:
-
-1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
-2. **Gifted education:** admitted to **Gamal Abdel Nasser School for Outstanding Students**, selected among approximately **200 students from 1,200 applicants**.
-3. **International scholarship:** awarded an **AIU scholarship covering tuition, university housing, a monthly stipend, and medical insurance** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
-4. **Professional development:** built six years of hands-on project management experience, translating academic discipline into institutional execution.
-5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
-
-### Career Timeline
-
-- **2019–2020 · Academic formation:** selected for Gamal Abdel Nasser School for Outstanding Students; founded Gate of Scholarships; began planning SMI and its educational work.
-- **2022–2023 · Academic distinction:** achieved 98.88%, placed among the Republic's top students and launched educational evening sessions.
-- **2023–2024 · International education:** received a fully funded scholarship and enrolled in Computer Science at Albukhary International University in Malaysia.
-- **2024 · Institutional leadership:** served as Vice Director of Flunex Institute and contributed to its website, identity and academic materials.
-- **2024 · Technology entrepreneurship:** began focusing on software products, technology services and business systems. The registered Saltrixma LLC is described separately in its corporate record.
-- **2025–2026 · Digital transformation:** led SMI's digital transformation, advanced MIYTO Smart Rooms and directed QADHA product and systems development.
-
-[Full career timeline in the portfolio →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/profile)
 
 <a name="ventures"></a>
 
@@ -287,6 +255,27 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 - Directed QADHA’s product definition and development under Saltrixma LLC.
 - Structured digital operating models around education and institutional workflows.
 
+### Academic Foundation & Journey
+
+The foundation of my journey was built through academic discipline and selective education:
+
+1. **Secondary school:** ranked among Yemen's top 10 students nationally, achieving **98.88%**.
+2. **Gifted education:** admitted to **Gamal Abdel Nasser School for Outstanding Students**, selected among approximately **200 students from 1,200 applicants**.
+3. **International scholarship:** awarded an **AIU scholarship covering tuition, university housing, a monthly stipend, and medical insurance** to pursue an **undergraduate degree in Computer Science at Albukhary International University (AIU)**.
+4. **Professional development:** built six years of hands-on project management experience, translating academic discipline into institutional execution.
+5. **Leadership today:** CEO of Saltrixma LLC; Founder & Managing Director of Superior Multiskills Institution; Vice Director of Flunex Institute; and Founder of Gate of Scholarships.
+
+### Career Timeline
+
+- **2019–2020 · Academic formation:** selected for Gamal Abdel Nasser School for Outstanding Students; founded Gate of Scholarships; began planning SMI and its educational work.
+- **2022–2023 · Academic distinction:** achieved 98.88%, placed among the Republic's top students and launched educational evening sessions.
+- **2023–2024 · International education:** received a fully funded scholarship and enrolled in Computer Science at Albukhary International University in Malaysia.
+- **2024 · Institutional leadership:** served as Vice Director of Flunex Institute and contributed to its website, identity and academic materials.
+- **2024 · Technology entrepreneurship:** began focusing on software products, technology services and business systems. The registered Saltrixma LLC is described separately in its corporate record.
+- **2025–2026 · Digital transformation:** led SMI's digital transformation, advanced MIYTO Smart Rooms and directed QADHA product and systems development.
+
+[Full career timeline in the portfolio →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/profile)
+
 <a name="principles"></a>
 
 <h2 align="center"><img src="assets/dossier/section-06.svg" width="28" alt=""> 06 / Operating Principles</h2>
@@ -334,6 +323,17 @@ Public repositories are used selectively for work intended for open publication.
 - [QADHA Platform — product case study](https://github.com/a7medgamil/qadha-platform-showcase)
 - [SMI Digital Operations — institutional case study](https://github.com/a7medgamil/smi-digital-operations-showcase)
 - [AIU Smart HR & NLP CV Summarizer — academic design case study](https://github.com/a7medgamil/aiu-smart-hr-showcase)
+
+| Inspect first | What the public record establishes | My professional focus |
+|---|---|---|
+| [MIYTO Smart Rooms](https://github.com/a7medgamil/miyto-smart-rooms-showcase) | [Runnable synthetic Room State Lab](https://github.com/a7medgamil/miyto-smart-rooms-showcase/tree/main/demo/room-state-lab) with 26 passing automated checks, independently exercised desktop/mobile flows, and [successful main-branch CI](https://github.com/a7medgamil/miyto-smart-rooms-showcase/actions/runs/44894982610); **not** live audio or production capacity evidence | Technical delivery, lifecycle design, testing discipline |
+| [SMI Digital Operations](https://github.com/a7medgamil/smi-digital-operations-showcase) | Eight operating domains, a 12-item application/module inventory, plus an [independent Operations Case Lab](https://github.com/a7medgamil/smi-digital-operations-showcase/tree/main/demo/operations-case-lab) (39 automated tests, 38 browser checks and [green main CI](https://github.com/a7medgamil/smi-digital-operations-showcase/actions/runs/44895321053)); all demo records are fictional | Digital transformation, operations design, product workflows |
+| [QADHA Platform](https://github.com/a7medgamil/qadha-platform-showcase) | Product architecture and an [original synthetic Battle Rules Lab](https://github.com/a7medgamil/qadha-platform-showcase/tree/main/demo/battle-rule-lab): 36 automated tests, 60 desktop/mobile browser checks and [successful main CI](https://github.com/a7medgamil/qadha-platform-showcase/actions/runs/44896934520); **not** production competition, video or payment validation | Product direction, rules and technical governance |
+| [AIU Smart HR](https://github.com/a7medgamil/aiu-smart-hr-showcase) | [Fictional HR desktop/mobile previews](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/MILESTONE1-SYNTHETIC-QA-EVIDENCE.md) and a documented **private** Milestone 1 QA review (12 tests, 42 SQLite assertions, 44 viewport checks, 11 interactions); code/CI are not public, and **no deployed NLP/AI model is claimed** | Computer science, academic requirements, data integrity and human-centered evaluation |
+
+*Code-level proof and product-level evidence serve different purposes. Proprietary production repositories remain private; public examples are provided only when independently reproducible and safe to disclose.*
+
+**Public navigation QA (21 Nov 2026):** 34/34 README HTTP HEAD destinations reachable; 86/86 referenced visual asset paths present in the Git tree. [Audit methodology and limitations](docs/RECRUITER-LINK-AND-ASSET-AUDIT-20261121.md). These checks do not validate product operation, company claims or browser accessibility.
 
 **Portfolio case studies:** [MIYTO](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/miyto-smart-rooms) · [SMI Digital Learning & Operations](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/smi-digital-learning-platform) · [SMI Registration Hub](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/smi-registration-hub) · [AIU HR & NLP](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/hr-nlp-cv-summarizer)
 
