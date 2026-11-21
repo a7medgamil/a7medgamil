@@ -14,13 +14,16 @@ const pictureBlocks=[...readme.matchAll(/<picture>\s*([\s\S]*?)<\/picture>/g)].m
 let checked=0;
 for(const family of names) {
   const associated=pictureBlocks.filter(p=>p.includes('assets/live/'+family+'-'));
-  assert.equal(associated.length,1,'Exactly one README picture for '+family);
-  const pic=associated[0];
-  const reduced=(pic.match(/media="\([^"]*prefers-reduced-motion: reduce[^"]*"/g)||[]).length;
-  assert.equal(reduced,4,'Four matching static fallbacks required for '+family);
+  const archived=['hero-centered','ventures-grid'].includes(family);
+  assert.equal(associated.length,archived?0:1,'Active README picture or preserved legacy family for '+family);
+  const pic=associated[0]||'';
+  if(!archived){
+    const reduced=(pic.match(/media="\([^"]*prefers-reduced-motion: reduce[^"]*"/g)||[]).length;
+    assert.equal(reduced,4,'Four matching static fallbacks required for '+family);
+  }
   for(const tone of cases) {
     const src='assets/live/'+family+'-'+tone+'.gif';
-    assert.equal((readme.match(new RegExp(src.replaceAll('.','\\.').replaceAll('/','\\/'),'g'))||[]).length,1,'Missing/duplicate animation '+src);
+    assert.equal((readme.match(new RegExp(src.replaceAll('.','\\.').replaceAll('/','\\/'),'g'))||[]).length,archived?0:1,'Missing/duplicate or retired animation '+src);
     const file=resolve(root,src);
     assert.ok(existsSync(file),'Missing animation '+src);
     const bytes=readFileSync(file);
@@ -34,4 +37,4 @@ for(const family of names) {
 for(let i=1;i<=9;i++) {
   assert.ok(readme.includes(String(i).padStart(2,'0')+' / '),'Original executive dossier section missing: '+i);
 }
-console.log('LIVE PROFILE AUDIT: '+checked+'/48 verified autonomous GIFs, 12/12 responsive visual groups, four reduced-motion fallbacks per group; all 9 original sections retained.');
+console.log('LIVE PROFILE AUDIT: '+checked+'/48 verified archived and active GIFs, 10 live responsive groups with static alternatives, 2 original media groups preserved; all 9 original sections retained.');

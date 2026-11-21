@@ -1,13 +1,9 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/hero/hero-centered-light-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/hero-centered-light.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/hero-centered-dark-mobile.gif">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/hero-centered-light-mobile.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/live/hero-centered-dark.gif">
-  <img src="assets/live/hero-centered-light.gif" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/hero-executive-mobile-still.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/hero-executive-still.svg" />
+  <source media="(max-width: 900px)" srcset="assets/cinematic/hero-executive-mobile.gif" />
+  <img src="assets/cinematic/hero-executive.gif" width="100%" alt="Cinematic orbital executive introduction for Ahmed Gamil, Founder and CEO, displaying strategy, execution and connected systems." />
 </picture>
 </p>
 
@@ -81,14 +77,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark-mobile.webp">
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/dossier/ventures-grid-light-mobile.webp">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/dossier/ventures-grid-dark.webp">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dossier/ventures-grid-light.webp">
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/live/ventures-grid-dark-mobile.gif">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/live/ventures-grid-light-mobile.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/live/ventures-grid-dark.gif">
-  <img src="assets/live/ventures-grid-light.gif" width="100%" alt="Four premium leadership cards representing Saltrixma LLC, Superior Multiskills Institution, Flunex Institute, and Gate of Scholarships.">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/ventures-architected-mobile-still.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/ventures-architected-still.svg" />
+  <source media="(max-width: 900px)" srcset="assets/cinematic/ventures-architected-mobile.gif" />
+  <img src="assets/cinematic/ventures-architected.gif" width="100%" alt="Four institutional leadership cards: Saltrixma LLC, SMI, Flunex Institute, Gate of Scholarships." />
 </picture>
 </p>
 
@@ -110,6 +102,16 @@ My work connects strategy with execution: defining what should be built, structu
 <a name="systems"></a>
 
 <h2 align="center"><img src="assets/dossier/section-03.svg" width="28" alt=""> 03 / Featured Systems</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/systems-atlas-mobile-still.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/systems-atlas-still.svg" />
+  <source media="(max-width: 900px)" srcset="assets/cinematic/systems-atlas-mobile.gif" />
+  <img src="assets/cinematic/systems-atlas.gif" width="100%" alt="Animated four-system portfolio connecting QADHA, MIYTO, SMI Digital Operations and AIU Smart HR." />
+</picture>
+</p>
+
 
 <p align="center">
 <a href="assets/projects/qadha-operations.webp">
@@ -191,6 +193,16 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 <a name="capabilities"></a>
 
 <h2 align="center"><img src="assets/dossier/section-04.svg" width="28" alt=""> 04 / Technical Operating Stack</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/stack-constellation-mobile-still.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/stack-constellation-still.svg" />
+  <source media="(max-width: 900px)" srcset="assets/cinematic/stack-constellation-mobile.gif" />
+  <img src="assets/cinematic/stack-constellation.gif" width="100%" alt="Animated orbital engineering constellation covering eight technical capability groups." />
+</picture>
+</p>
+
 
 A curated set of **43 selected capabilities across eight operating areas**. These describe the documented technical stack and work context; they are not proficiency ratings. [Explore the full capability atlas →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/capabilities)
 
