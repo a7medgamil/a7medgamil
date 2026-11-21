@@ -30,6 +30,8 @@ I lead technology-enabled institutional operations and product delivery across e
 
 *Code-level proof and product-level evidence serve different purposes. Proprietary production repositories remain private; public examples are provided only when independently reproducible and safe to disclose.*
 
+**Public navigation QA (21 Nov 2026):** 34/34 README HTTP HEAD destinations reachable; 86/86 referenced visual asset paths present in the Git tree. [Audit methodology and limitations](docs/RECRUITER-LINK-AND-ASSET-AUDIT-20261121.md). These checks do not validate product operation, company claims or browser accessibility.
+
 ---
 
 <a name="profile"></a>
