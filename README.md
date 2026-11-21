@@ -65,7 +65,7 @@ The foundation of my journey was built through academic discipline and selective
 - **2022–2023 · Academic distinction:** achieved 98.88%, placed among the Republic's top students and launched educational evening sessions.
 - **2023–2024 · International education:** received a fully funded scholarship and enrolled in Computer Science at Albukhary International University in Malaysia.
 - **2024 · Institutional leadership:** served as Vice Director of Flunex Institute and contributed to its website, identity and academic materials.
-- **2024 · Technology entrepreneurship:** founded Saltrixma LLC and took the CEO role, setting direction for digital products and business systems.
+- **2024 · Technology entrepreneurship:** began focusing on software products, technology services and business systems. The registered Saltrixma LLC is described separately in its corporate record.
 - **2025–2026 · Digital transformation:** led SMI's digital transformation, advanced MIYTO Smart Rooms and directed QADHA product and systems development.
 
 [Full career timeline in the portfolio →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/profile)
