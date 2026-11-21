@@ -35,9 +35,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-          git -C dist init
-          git -C dist config user.name "github-actions[bot]"
-          git -C dist config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C dist add --all
-          git -C dist commit -m "chore: refresh contribution trail"
-          git -C dist push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
+          mkdir -p "${RUNNER_TEMP}/contribution-trail"
+          cp -R dist/. "${RUNNER_TEMP}/contribution-trail/"
+          git -C "${RUNNER_TEMP}/contribution-trail" init
+          git -C "${RUNNER_TEMP}/contribution-trail" config user.name "github-actions[bot]"
+          git -C "${RUNNER_TEMP}/contribution-trail" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "${RUNNER_TEMP}/contribution-trail" add --all
+          git -C "${RUNNER_TEMP}/contribution-trail" commit -m "chore: refresh contribution trail"
+          git -C "${RUNNER_TEMP}/contribution-trail" push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
