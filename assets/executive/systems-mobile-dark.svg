@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="826" viewBox="0 0 720 826" role="img" aria-label="Selected work: MIYTO, SMI and QADHA.">
+<title>Selected systems</title>
+<rect x=".5" y=".5" width="719" height="825" rx="23" fill="#0E1A29" stroke="#486476" stroke-opacity=".7"/>
+<text x="42" y="53" fill="#A9BECA" font-size="18" letter-spacing="3" font-family="Arial,Helvetica,sans-serif">SELECTED SYSTEMS</text>
+<path d="M42 76H679" stroke="#486476"/>
+<g>
+<text x="43" y="181" fill="#304B5E" font-family="Georgia,'Times New Roman',serif" font-size="102" font-style="italic">01</text>
+<path d="M43 201h55" stroke="#B3D1DD" stroke-width="3"/>
+<text x="43" y="255" fill="#EDF3F7" font-family="Georgia,'Times New Roman',serif" font-size="54">MIYTO</text>
+<text x="43" y="297" fill="#EDF3F7" font-size="22" font-family="Arial,Helvetica,sans-serif">Audio-first learning operations</text>
+<text x="43" y="332" fill="#A9BECA" font-size="17" font-family="Arial,Helvetica,sans-serif">Room rules · attendance · supervision</text>
+<path d="M43 353H678" stroke="#486476" stroke-opacity=".55"/>
+</g><g>
+<text x="43" y="423" fill="#304B5E" font-family="Georgia,'Times New Roman',serif" font-size="102" font-style="italic">02</text>
+<path d="M43 443h55" stroke="#B3D1DD" stroke-width="3"/>
+<text x="43" y="497" fill="#EDF3F7" font-family="Georgia,'Times New Roman',serif" font-size="54">SMI</text>
+<text x="43" y="539" fill="#EDF3F7" font-size="22" font-family="Arial,Helvetica,sans-serif">Connected institutional workflows</text>
+<text x="43" y="574" fill="#A9BECA" font-size="17" font-family="Arial,Helvetica,sans-serif">Registration · assessments · oversight</text>
+<path d="M43 595H678" stroke="#486476" stroke-opacity=".55"/>
+</g><g>
+<text x="43" y="665" fill="#304B5E" font-family="Georgia,'Times New Roman',serif" font-size="102" font-style="italic">03</text>
+<path d="M43 685h55" stroke="#B3D1DD" stroke-width="3"/>
+<text x="43" y="739" fill="#EDF3F7" font-family="Georgia,'Times New Roman',serif" font-size="54">QADHA</text>
+<text x="43" y="781" fill="#EDF3F7" font-size="22" font-family="Arial,Helvetica,sans-serif">Consumer product &amp; competition logic</text>
+<text x="43" y="816" fill="#A9BECA" font-size="17" font-family="Arial,Helvetica,sans-serif">Product direction · rules · states</text>
+
+</g>
+</svg>
