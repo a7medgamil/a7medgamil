@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="468" viewBox="0 0 1200 468" role="img" aria-label="Ahmed Gamil — executive leadership in technology, product delivery, and institutional operations.">
+<title>Ahmed Gamil — Executive Profile</title>
+<defs>
+ <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#E9EEF3"/><stop offset="100%" stop-color="#F9FAFB"/></linearGradient>
+ <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#416F88" stop-opacity=".75"/><stop offset="100%" stop-color="#416F88" stop-opacity=".06"/></linearGradient>
+ <clipPath id="corner"><rect x="0.5" y="0.5" width="1199" height="467" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#corner)">
+ <rect width="1200" height="468" fill="url(#surface)"/>
+ <g stroke="#849AA9" stroke-width=".7" opacity=".11">
+  <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200M0 320H1200M0 384H1200M0 448H1200"/>
+  <path d="M80 0V468M160 0V468M240 0V468M320 0V468M400 0V468M480 0V468M560 0V468M640 0V468M720 0V468M800 0V468M880 0V468M960 0V468M1040 0V468M1120 0V468"/>
+ </g>
+ <path d="M706 0V468" stroke="#A7BAC8" stroke-opacity=".19"/>
+ <g transform="translate(935 233)" fill="none">
+   <circle r="205" stroke="#A7BAC8" stroke-opacity=".27" stroke-width="1"/>
+   <circle r="173" stroke="#A7BAC8" stroke-opacity=".45" stroke-width=".85"/>
+   <circle r="130" stroke="#A7BAC8" stroke-opacity=".34" stroke-width=".8"/>
+   <circle r="83" stroke="#A7BAC8" stroke-opacity=".48" stroke-width=".8"/>
+   <path d="M-204 18A205 205 0 0 1 55-197" stroke="url(#sweep)" stroke-width="3"/>
+   <path d="M-123 52A135 135 0 0 0 102 89" stroke="#416F88" stroke-opacity=".6" stroke-width="1.5"/>
+   <path d="M-224 0H224M0-220V220" stroke="#A7BAC8" stroke-opacity=".30" stroke-width=".8"/>
+   <path d="M-150-150L150 150M-150 150L150-150" stroke="#A7BAC8" stroke-opacity=".15" stroke-width=".7"/>
+   <circle cx="-145" cy="-93" r="6" fill="#416F88" stroke="#E9EEF3" stroke-width="4"/>
+   <circle cx="171" cy="36" r="4.5" fill="#416F88"/>
+   <circle cx="70" cy="-110" r="4" fill="#416F88"/>
+   <circle r="31" stroke="#416F88" stroke-width="1.8"/>
+   <circle r="6" fill="#416F88"/>
+ </g>
+ <path d="M799 233h77M992 233h72M935 122v52M935 294v56" stroke="#416F88" stroke-width="1" opacity=".38"/>
+ <text x="1008" y="71" fill="#416F88" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">01 / SYSTEMS</text>
+ <text x="761" y="403" fill="#53697B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2.1">STRATEGY · STRUCTURE · EXECUTION</text>
+ <rect x="67" y="47" width="53" height="53" rx="7" fill="none" stroke="#A7BAC8" stroke-opacity=".8"/>
+ <text x="93.5" y="81" text-anchor="middle" fill="#172A3D" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic">AG</text>
+ <text x="144" y="66" fill="#53697B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="3.1">LEADERSHIP PROFILE</text>
+ <text x="144" y="90" fill="#172A3D" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.35">TECHNOLOGY &amp; OPERATIONS</text>
+ <path d="M67 119h562" stroke="#A7BAC8" stroke-opacity=".45" stroke-width="1"/>
+ <text x="64" y="205" fill="#172A3D" font-family="Georgia, 'Times New Roman', serif" font-size="75" letter-spacing="-1">Ahmed</text>
+ <text x="65" y="289" fill="#172A3D" font-family="Georgia, 'Times New Roman', serif" font-size="81" font-style="italic" letter-spacing="-2">Gamil</text>
+ <rect x="67" y="315" width="45" height="2" fill="#416F88"/>
+ <text x="67" y="356" fill="#53697B" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".2">Leading institutions. Building products.</text>
+ <path d="M67 387h562" stroke="#A7BAC8" stroke-opacity=".4" stroke-width="1"/>
+ <text x="67" y="418" fill="#172A3D" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.0">SALTRIXMA LLC</text>
+ <circle cx="228" cy="414" r="2" fill="#416F88"/>
+ <text x="249" y="418" fill="#172A3D" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.0">SUPERIOR MULTISKILLS INSTITUTION</text>
+ <text x="67" y="443" fill="#53697B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">PRODUCT DIRECTION  /  OPERATING MODELS  /  TECHNICAL DELIVERY</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="467" rx="24" fill="none" stroke="#A7BAC8" stroke-opacity=".42"/>
+</svg>
