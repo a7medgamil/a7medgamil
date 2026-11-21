@@ -21,7 +21,7 @@ I lead technology-enabled institutional operations and product delivery across e
 
 | Inspect first | What the public record establishes | My professional focus |
 |---|---|---|
-| [MIYTO Smart Rooms](https://github.com/a7medgamil/miyto-smart-rooms-showcase) | Audio-room operating design and dated unit/Worker QA results; not a live-SFU or capacity certification | Technical delivery, lifecycle design, testing discipline |
+| [MIYTO Smart Rooms](https://github.com/a7medgamil/miyto-smart-rooms-showcase) | Dated unit/Worker QA and an [independent runnable synthetic demo (draft PR)](https://github.com/a7medgamil/miyto-smart-rooms-showcase/pull/1) with [green CI on its exact commit](https://github.com/a7medgamil/miyto-smart-rooms-showcase/actions/runs/44892806599); not a live-SFU or capacity certification | Technical delivery, lifecycle design, testing discipline |
 | [SMI Digital Operations](https://github.com/a7medgamil/smi-digital-operations-showcase) | Eight operating domains and a 12-item application/module inventory; route checks are reachability evidence only | Digital transformation, operations design, product workflows |
 | [QADHA Platform](https://github.com/a7medgamil/qadha-platform-showcase) | Multi-module social product, internal console and clearly labeled beta/test boundaries | Product direction, systems and operational governance |
 | [AIU Smart HR](https://github.com/a7medgamil/aiu-smart-hr-showcase) | University project design and review methodology; not a deployed AI ranking model | Computer science, requirements analysis and human-centered evaluation |
