@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="542" viewBox="0 0 1600 542" role="img" aria-labelledby="t d"><title id="t">Systems over isolated screens. Evidence before claims. Operating model before feature sprawl. Technology should solve an operational problem.</title><desc id="d">Systems over isolated screens. Evidence before claims. Operating model before feature sprawl. Technology should solve an operational problem.</desc><defs><linearGradient id="field" x2="1" y2="1"><stop stop-color="#FAF8F3"/><stop offset="1" stop-color="#F1EBDF"/></linearGradient><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#805927"/><stop offset=".6" stop-color="#985A32"/><stop offset="1" stop-color="#805927"/></linearGradient></defs><rect width="1600" height="542" rx="10" fill="url(#field)"/><rect x=".5" y=".5" width="1599" height="541" rx="10" fill="none" stroke="#D6CBB9"/><path d="M48 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M248 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M448 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M648 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M848 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M1048 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M1248 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M1448 0V542" stroke="#D6CBB9" opacity=".35"/><path d="M0 48H1600" stroke="#D6CBB9" opacity=".24"/><path d="M0 248H1600" stroke="#D6CBB9" opacity=".24"/><path d="M0 448H1600" stroke="#D6CBB9" opacity=".24"/><text x="64" y="48" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#805927" letter-spacing="3">OPERATING PRINCIPLES</text><text x="64" y="128" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#805927" letter-spacing="3">01</text><text x="146" y="129" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">Systems over</text><text x="146" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">isolated screens.</text><path d="M64 266H766" stroke="#805927" opacity="0.26"/><text x="834" y="128" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#805927" letter-spacing="3">02</text><text x="916" y="129" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">Evidence before</text><text x="916" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">claims.</text><path d="M834 266H1536" stroke="#805927" opacity="0.26"/><text x="64" y="342" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#805927" letter-spacing="3">03</text><text x="146" y="343" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">Operating model before</text><text x="146" y="399" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">feature sprawl.</text><path d="M64 480H766" stroke="#805927" opacity="0.26"/><text x="834" y="342" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#805927" letter-spacing="3">04</text><text x="916" y="343" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">Technology should solve</text><text x="916" y="399" font-family="Segoe UI,Arial,sans-serif" font-size="42" fill="#171A20" font-weight="500">an operational problem.</text><path d="M834 480H1536" stroke="#805927" opacity="0.26"/>
+<!-- MOTION START: decorative SVG-only enhancement; original source is retained -->
+<style>
+  .motion-rotor { transform-origin: 0px 0px; animation: motionTurn 32s linear infinite; }
+  .motion-dash { animation: motionSweep 14s ease-in-out infinite; }
+  .motion-beat { animation: motionBeat 12s ease-in-out infinite; }
+  .motion-beat:nth-child(2) { animation-delay: -2s; }
+  .motion-beat:nth-child(3) { animation-delay: -4s; }
+  .motion-beat:nth-child(4) { animation-delay: -6s; }
+  .motion-beat:nth-child(5) { animation-delay: -8s; }
+  .motion-beat:nth-child(6) { animation-delay: -10s; }
+  .motion-beat:nth-child(7) { animation-delay: -12s; }
+  @keyframes motionTurn { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  @keyframes motionSweep {
+    0%, 8% { stroke-dashoffset: 1600; opacity: 0; }
+    15% { opacity: .62; }
+    53% { opacity: .5; }
+    66%, 100% { stroke-dashoffset: 0; opacity: 0; }
+  }
+  @keyframes motionBeat {
+    0%, 12%, 32%, 100% { opacity: .18; }
+    18%, 24% { opacity: .82; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .motion-rotor, .motion-dash, .motion-beat { animation: none !important; opacity: .22 !important; }
+  }
+</style>
+<circle class="motion-beat" style="animation-delay:-0s" cx="48" cy="119" r="5" fill="#C89756" opacity=".2" aria-hidden="true"/><circle class="motion-beat" style="animation-delay:-2.5s" cx="818" cy="119" r="5" fill="#C89756" opacity=".2" aria-hidden="true"/><circle class="motion-beat" style="animation-delay:-5s" cx="48" cy="333" r="5" fill="#C89756" opacity=".2" aria-hidden="true"/><circle class="motion-beat" style="animation-delay:-7.5s" cx="818" cy="333" r="5" fill="#C89756" opacity=".2" aria-hidden="true"/>
+<!-- MOTION END -->
+</svg>

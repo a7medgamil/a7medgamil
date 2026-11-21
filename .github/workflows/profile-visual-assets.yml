@@ -7,6 +7,9 @@ on:
       - 'assets/**'
       - 'scripts/check-profile-assets.mjs'
       - 'scripts/check-profile-assets.test.mjs'
+      - 'scripts/check-profile-motion.mjs'
+      - 'scripts/build-profile-motion.py'
+      - 'scripts/build-github-signal.py'
       - '.github/workflows/profile-visual-assets.yml'
   pull_request:
     paths:
@@ -14,6 +17,9 @@ on:
       - 'assets/**'
       - 'scripts/check-profile-assets.mjs'
       - 'scripts/check-profile-assets.test.mjs'
+      - 'scripts/check-profile-motion.mjs'
+      - 'scripts/build-profile-motion.py'
+      - 'scripts/build-github-signal.py'
       - '.github/workflows/profile-visual-assets.yml'
   workflow_dispatch:
 
@@ -35,3 +41,5 @@ jobs:
         run: node --test scripts/check-profile-assets.test.mjs
       - name: Check every README visual path exists in the current commit
         run: node scripts/check-profile-assets.mjs
+      - name: Ensure all responsive motion designs preserve static originals and accessibility
+        run: node scripts/check-profile-motion.mjs

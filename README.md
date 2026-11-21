@@ -1,9 +1,17 @@
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark.svg">
-  <img src="assets/hero/hero-centered-light.svg" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/hero/hero-centered-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-centered-dark-motion.svg">
+  <img src="assets/hero/hero-centered-light-motion.svg" width="100%" alt="Ahmed Gamil — CEO, Founder, Operator, Strategic Partner and Digital Systems Builder. Building organizations, digital products and operating systems.">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/executive-signal-static.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/motion/executive-signal-dark.gif">
+  <img src="assets/motion/executive-signal-light.gif" width="100%" alt="">
 </picture>
 </p>
 
@@ -29,10 +37,10 @@ I lead technology-enabled institutional operations and product delivery across e
 
 <p align="center">
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark.svg">
-  <img src="assets/dossier/profile-card-light.svg" width="100%" alt="Six years of project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/profile-card-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/profile-card-dark-motion.svg">
+  <img src="assets/dossier/profile-card-light-motion.svg" width="100%" alt="Six years of project management experience; CEO of Saltrixma LLC and Founder & Managing Director of SMI; working across technology, education and systems.">
 </picture>
 </p>
 
@@ -252,10 +260,10 @@ OpenAI API Integration · n8n Automation · System Architecture · Full-Stack In
 <h2 align="center"><img src="assets/dossier/section-05.svg" width="28" alt=""> 05 / Selected Milestones</h2>
 
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark.svg">
-  <img src="assets/dossier/milestones-light.svg" width="100%" alt="Selected record: 6 years of project management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/milestones-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/milestones-dark-motion.svg">
+  <img src="assets/dossier/milestones-light-motion.svg" width="100%" alt="Selected record: 6 years of project management; CEO at Saltrixma LLC; Founder and Managing Director at SMI; Vice Director at Flunex; Founder of Gate of Scholarships; QADHA under Saltrixma.">
 </picture>
 
 - Leads Saltrixma LLC as CEO, overseeing product direction and digital systems delivery.
@@ -290,10 +298,10 @@ The foundation of my journey was built through academic discipline and selective
 <h2 align="center"><img src="assets/dossier/section-06.svg" width="28" alt=""> 06 / Operating Principles</h2>
 
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/principles-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/principles-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/principles-dark.svg">
-  <img src="assets/dossier/principles-light.svg" width="100%" alt="Systems over isolated screens. Evidence before claims. Operating model before feature sprawl. Technology should solve an operational problem.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/principles-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/principles-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/principles-dark-motion.svg">
+  <img src="assets/dossier/principles-light-motion.svg" width="100%" alt="Systems over isolated screens. Evidence before claims. Operating model before feature sprawl. Technology should solve an operational problem.">
 </picture>
 
 **Start with the operation.** Understand the organization, its people and its constraints before choosing technology.
@@ -305,10 +313,10 @@ The foundation of my journey was built through academic discipline and selective
 **Let evidence set the claim.** Product status, technical scope and public proof should stay aligned.
 
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/workflow-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark.svg">
-  <img src="assets/dossier/workflow-light.svg" width="100%" alt="The operating method: Strategy → Requirements → System design → Implementation → Operations → Evidence → Scale.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/workflow-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/workflow-dark-motion.svg">
+  <img src="assets/dossier/workflow-light-motion.svg" width="100%" alt="The operating method: Strategy → Requirements → System design → Implementation → Operations → Evidence → Scale.">
 </picture>
 
 An operating method: define the need, build the system, run the workflow and validate the evidence before scaling.
@@ -318,10 +326,10 @@ An operating method: define the need, build the system, run the workflow and val
 <h2 align="center"><img src="assets/dossier/section-07.svg" width="28" alt=""> 07 / GitHub Activity</h2>
 
 <picture>
-  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-mobile.svg">
-  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/github-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/github-dark.svg">
-  <img src="assets/dossier/github-light.svg" width="100%" alt="Public GitHub snapshot — verified 15 Nov 2026. Public case-study repositories are maintained separately from private application source. No activity statistics fabricated.">
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-mobile-motion.svg">
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/dossier/github-light-mobile-motion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dossier/github-dark-motion.svg">
+  <img src="assets/dossier/github-light-motion.svg" width="100%" alt="Public GitHub snapshot — verified 15 Nov 2026. Public case-study repositories are maintained separately from private application source. No activity statistics fabricated.">
 </picture>
 
 Public repositories are used selectively for work intended for open publication. The products and institutional systems described above are represented here through public-safe evidence; their source code is not published in this profile.

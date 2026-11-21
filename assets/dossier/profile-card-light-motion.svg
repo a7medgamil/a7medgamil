@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-labelledby="title desc"><title id="title">Executive profile at a glance</title><desc id="desc">Six years of project management experience; CEO of Saltrixma LLC and Founder &amp; Managing Director of SMI; operating across technology, education and systems.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F3EC" stop-opacity=".04"/><stop offset="1" stop-color="#EDE7DA" stop-opacity=".02"/></linearGradient></defs><rect width="1600" height="360" rx="18" fill="url(#bg)"/><g><rect x="48" y="30" width="480" height="300" rx="20" fill="#FFFFFF" stroke="#D9CFBF" stroke-width="1.5"/><path d="M74 32h82" stroke="#9B7436" stroke-width="3"/><path d="M502 328h-82" stroke="#B8754C" stroke-width="2"/><text x="288" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="4" fill="#9B7436">EXPERIENCE</text><text x="288" y="195" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="56" fill="#171D26">6 years</text><text x="288" y="255" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#596575">Hands-on project management</text></g><g><rect x="560" y="30" width="480" height="300" rx="20" fill="#FFFFFF" stroke="#D9CFBF" stroke-width="1.5"/><path d="M586 32h82" stroke="#9B7436" stroke-width="3"/><path d="M1014 328h-82" stroke="#B8754C" stroke-width="2"/><text x="800" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="4" fill="#9B7436">LEADERSHIP</text><text x="800" y="195" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="56" fill="#171D26">CEO · SALTRIXMA</text><text x="800" y="255" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#596575">Founder &amp; Managing Director · SMI</text></g><g><rect x="1072" y="30" width="480" height="300" rx="20" fill="#FFFFFF" stroke="#D9CFBF" stroke-width="1.5"/><path d="M1098 32h82" stroke="#9B7436" stroke-width="3"/><path d="M1526 328h-82" stroke="#B8754C" stroke-width="2"/><text x="1312" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="4" fill="#9B7436">FOCUS</text><text x="1312" y="195" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="56" fill="#171D26">CROSS-SECTOR</text><text x="1312" y="255" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#596575">Technology · Education · Systems</text></g>
+<!-- MOTION START: decorative SVG-only enhancement; original source is retained -->
+<style>
+  .motion-rotor { transform-origin: 0px 0px; animation: motionTurn 32s linear infinite; }
+  .motion-dash { animation: motionSweep 14s ease-in-out infinite; }
+  .motion-beat { animation: motionBeat 12s ease-in-out infinite; }
+  .motion-beat:nth-child(2) { animation-delay: -2s; }
+  .motion-beat:nth-child(3) { animation-delay: -4s; }
+  .motion-beat:nth-child(4) { animation-delay: -6s; }
+  .motion-beat:nth-child(5) { animation-delay: -8s; }
+  .motion-beat:nth-child(6) { animation-delay: -10s; }
+  .motion-beat:nth-child(7) { animation-delay: -12s; }
+  @keyframes motionTurn { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  @keyframes motionSweep {
+    0%, 8% { stroke-dashoffset: 1600; opacity: 0; }
+    15% { opacity: .62; }
+    53% { opacity: .5; }
+    66%, 100% { stroke-dashoffset: 0; opacity: 0; }
+  }
+  @keyframes motionBeat {
+    0%, 12%, 32%, 100% { opacity: .18; }
+    18%, 24% { opacity: .82; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .motion-rotor, .motion-dash, .motion-beat { animation: none !important; opacity: .22 !important; }
+  }
+</style>
+<style>g:nth-of-type(2) text:nth-of-type(2){font-size:44px}g:nth-of-type(3) text:nth-of-type(2){font-size:46px}</style><g class="motion-beat" style="animation-delay:-0s"><path d="M66 35h62" stroke="#C89756" stroke-width="3" stroke-linecap="round" opacity=".68"/><circle cx="508" cy="48" r="4" fill="#C89756" opacity=".52"/></g><g class="motion-beat" style="animation-delay:-1.7s"><path d="M578 35h62" stroke="#C89756" stroke-width="3" stroke-linecap="round" opacity=".68"/><circle cx="1020" cy="48" r="4" fill="#C89756" opacity=".52"/></g><g class="motion-beat" style="animation-delay:-3.4s"><path d="M1090 35h62" stroke="#C89756" stroke-width="3" stroke-linecap="round" opacity=".68"/><circle cx="1532" cy="48" r="4" fill="#C89756" opacity=".52"/></g>
+<!-- MOTION END -->
+</svg>
