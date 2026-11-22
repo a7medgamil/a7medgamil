@@ -18,6 +18,8 @@ on:
       - 'scripts/check-cinematic-dossier.mjs'
       - 'scripts/check-studio3d.mjs'
       - 'scripts/check-geometric-intelligence.mjs'
+      - 'scripts/generate-isometric-cubes.py'
+      - 'scripts/apply-isometric-cubes.py'
       - '.github/workflows/profile-visual-assets.yml'
   pull_request:
     paths:
@@ -36,6 +38,8 @@ on:
       - 'scripts/check-cinematic-dossier.mjs'
       - 'scripts/check-studio3d.mjs'
       - 'scripts/check-geometric-intelligence.mjs'
+      - 'scripts/generate-isometric-cubes.py'
+      - 'scripts/apply-isometric-cubes.py'
       - '.github/workflows/profile-visual-assets.yml'
   workflow_dispatch:
 

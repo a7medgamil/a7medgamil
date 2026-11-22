@@ -1,9 +1,9 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/hero-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/hero-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/hero-mobile.gif" />
-  <img src="assets/geometric-intelligence/hero-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the hero section; precise accessible desktop and mobile variants." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/isometric-cubes/hero-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/isometric-cubes/hero-desktop-static.svg" />
+  <source media="(max-width: 900px)" srcset="assets/isometric-cubes/hero-mobile.svg" />
+  <img src="assets/isometric-cubes/hero-desktop.svg" width="100%" alt="Large animated isometric cubic architecture, built from monumental shaded blocks for Ahmed Abdulbari executive profile" />
 </picture>
 </p>
 
@@ -77,10 +77,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/ventures-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/ventures-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/ventures-mobile.gif" />
-  <img src="assets/geometric-intelligence/ventures-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the ventures section; precise accessible desktop and mobile variants." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/isometric-cubes/ventures-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/isometric-cubes/ventures-desktop-static.svg" />
+  <source media="(max-width: 900px)" srcset="assets/isometric-cubes/ventures-mobile.svg" />
+  <img src="assets/isometric-cubes/ventures-desktop.svg" width="100%" alt="Four large isometric cubic architectures representing Saltrixma, SMI, Flunex and scholarship initiatives" />
 </picture>
 </p>
 
@@ -105,10 +105,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/systems-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/systems-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/systems-mobile.gif" />
-  <img src="assets/geometric-intelligence/systems-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the systems section; precise accessible desktop and mobile variants." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/isometric-cubes/systems-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/isometric-cubes/systems-desktop-static.svg" />
+  <source media="(max-width: 900px)" srcset="assets/isometric-cubes/systems-mobile.svg" />
+  <img src="assets/isometric-cubes/systems-desktop.svg" width="100%" alt="Distinct large modular isometric cube structures representing QADHA, MIYTO, SMI operations and AIU Smart HR" />
 </picture>
 </p>
 
@@ -196,10 +196,10 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/skills-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/skills-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/skills-mobile.gif" />
-  <img src="assets/geometric-intelligence/skills-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the skills section; precise accessible desktop and mobile variants." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/isometric-cubes/capabilities-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/isometric-cubes/capabilities-desktop-static.svg" />
+  <source media="(max-width: 900px)" srcset="assets/isometric-cubes/capabilities-mobile.svg" />
+  <img src="assets/isometric-cubes/capabilities-desktop.svg" width="100%" alt="An integrated monumental modular cube architecture representing eight executive and technical disciplines" />
 </picture>
 </p>
 
