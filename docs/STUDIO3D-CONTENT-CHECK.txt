@@ -1,0 +1,3 @@
+SHA-256 of README with all <picture> elements normalized to <picture/>:
+9c408657fcd6dbf85980c994c3119acf55fb627607d035d20effc4eb866c8ea0
+All non-image bytes match the current origin/main parent (including concurrent additions).

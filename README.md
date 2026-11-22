@@ -1,9 +1,9 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/hero-executive-mobile-still.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/hero-executive-still.svg" />
-  <source media="(max-width: 900px)" srcset="assets/cinematic/hero-executive-mobile.gif" />
-  <img src="assets/cinematic/hero-executive.gif" width="100%" alt="Cinematic orbital executive introduction for Ahmed Gamil, Founder and CEO, displaying strategy, execution and connected systems." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/hero-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/hero-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/studio3d/hero-mobile.gif" />
+  <img src="assets/studio3d/hero-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the hero section, with a mobile layout and reduced-motion still." />
 </picture>
 </p>
 
@@ -77,10 +77,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/ventures-architected-mobile-still.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/ventures-architected-still.svg" />
-  <source media="(max-width: 900px)" srcset="assets/cinematic/ventures-architected-mobile.gif" />
-  <img src="assets/cinematic/ventures-architected.gif" width="100%" alt="Four institutional leadership cards: Saltrixma LLC, SMI, Flunex Institute, Gate of Scholarships." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/ventures-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/ventures-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/studio3d/ventures-mobile.gif" />
+  <img src="assets/studio3d/ventures-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the ventures section, with a mobile layout and reduced-motion still." />
 </picture>
 </p>
 
@@ -105,10 +105,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/systems-atlas-mobile-still.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/systems-atlas-still.svg" />
-  <source media="(max-width: 900px)" srcset="assets/cinematic/systems-atlas-mobile.gif" />
-  <img src="assets/cinematic/systems-atlas.gif" width="100%" alt="Animated four-system portfolio connecting QADHA, MIYTO, SMI Digital Operations and AIU Smart HR." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/systems-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/systems-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/studio3d/systems-mobile.gif" />
+  <img src="assets/studio3d/systems-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the systems section, with a mobile layout and reduced-motion still." />
 </picture>
 </p>
 
@@ -196,10 +196,10 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/cinematic/stack-constellation-mobile-still.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinematic/stack-constellation-still.svg" />
-  <source media="(max-width: 900px)" srcset="assets/cinematic/stack-constellation-mobile.gif" />
-  <img src="assets/cinematic/stack-constellation.gif" width="100%" alt="Animated orbital engineering constellation covering eight technical capability groups." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/skills-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/skills-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/studio3d/skills-mobile.gif" />
+  <img src="assets/studio3d/skills-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the skills section, with a mobile layout and reduced-motion still." />
 </picture>
 </p>
 

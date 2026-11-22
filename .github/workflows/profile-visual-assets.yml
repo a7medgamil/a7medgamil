@@ -16,6 +16,7 @@ on:
       - 'scripts/optimize-live-profile.py'
       - 'scripts/check-live-profile.mjs'
       - 'scripts/check-cinematic-dossier.mjs'
+      - 'scripts/check-studio3d.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   pull_request:
     paths:
@@ -32,6 +33,7 @@ on:
       - 'scripts/optimize-live-profile.py'
       - 'scripts/check-live-profile.mjs'
       - 'scripts/check-cinematic-dossier.mjs'
+      - 'scripts/check-studio3d.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   workflow_dispatch:
 
@@ -57,5 +59,7 @@ jobs:
         run: node scripts/check-profile-motion.mjs
       - name: Verify all luminous GIFs, reduced-motion originals, and executive sections
         run: node scripts/check-live-profile.mjs
-      - name: Verify original cinematic scenes, animated loops and accessible mobile art
+      - name: Verify historical art remains available
         run: node scripts/check-cinematic-dossier.mjs
+      - name: Verify real 3D rendering artifacts and unchanged README content
+        run: node scripts/check-studio3d.mjs
