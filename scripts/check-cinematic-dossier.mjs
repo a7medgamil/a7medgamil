@@ -17,6 +17,6 @@ for(const family of names){
 }
 for(let i=1;i<=9;i++)assert.ok(readme.includes(String(i).padStart(2,'0')+' / '),'Missing original executive narrative section '+i);
 for(const id of ['hero','ventures','systems','skills']){
- assert.ok(readme.includes('assets/studio3d/'+id+'-desktop.gif'),'New actual 3D artwork not active: '+id);
+ assert.ok(readme.includes('assets/geometric-intelligence/'+id+'-desktop.gif'),'New chromatic 3D geometry not active: '+id);
 }
 console.log('CINEMATIC LEGACY QA: '+preserved+' original and fallback assets preserved; all 9 sections and 4 new 3D panels present.');

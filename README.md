@@ -1,9 +1,9 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/hero-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/hero-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/studio3d/hero-mobile.gif" />
-  <img src="assets/studio3d/hero-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the hero section, with a mobile layout and reduced-motion still." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/hero-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/hero-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/hero-mobile.gif" />
+  <img src="assets/geometric-intelligence/hero-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the hero section; precise accessible desktop and mobile variants." />
 </picture>
 </p>
 
@@ -77,10 +77,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/ventures-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/ventures-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/studio3d/ventures-mobile.gif" />
-  <img src="assets/studio3d/ventures-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the ventures section, with a mobile layout and reduced-motion still." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/ventures-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/ventures-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/ventures-mobile.gif" />
+  <img src="assets/geometric-intelligence/ventures-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the ventures section; precise accessible desktop and mobile variants." />
 </picture>
 </p>
 
@@ -105,10 +105,10 @@ My work connects strategy with execution: defining what should be built, structu
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/systems-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/systems-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/studio3d/systems-mobile.gif" />
-  <img src="assets/studio3d/systems-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the systems section, with a mobile layout and reduced-motion still." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/systems-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/systems-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/systems-mobile.gif" />
+  <img src="assets/geometric-intelligence/systems-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the systems section; precise accessible desktop and mobile variants." />
 </picture>
 </p>
 
@@ -196,10 +196,10 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/studio3d/skills-mobile.webp" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/studio3d/skills-desktop.webp" />
-  <source media="(max-width: 900px)" srcset="assets/studio3d/skills-mobile.gif" />
-  <img src="assets/studio3d/skills-desktop.gif" width="100%" alt="Original genuine Blender-rendered 3D executive artwork for the skills section, with a mobile layout and reduced-motion still." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/geometric-intelligence/skills-mobile.webp" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/geometric-intelligence/skills-desktop.webp" />
+  <source media="(max-width: 900px)" srcset="assets/geometric-intelligence/skills-mobile.gif" />
+  <img src="assets/geometric-intelligence/skills-desktop.gif" width="100%" alt="Original multicolor computational geometry, physically rendered in Blender for the skills section; precise accessible desktop and mobile variants." />
 </picture>
 </p>
 

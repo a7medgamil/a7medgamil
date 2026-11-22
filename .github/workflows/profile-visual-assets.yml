@@ -17,6 +17,7 @@ on:
       - 'scripts/check-live-profile.mjs'
       - 'scripts/check-cinematic-dossier.mjs'
       - 'scripts/check-studio3d.mjs'
+      - 'scripts/check-geometric-intelligence.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   pull_request:
     paths:
@@ -34,6 +35,7 @@ on:
       - 'scripts/check-live-profile.mjs'
       - 'scripts/check-cinematic-dossier.mjs'
       - 'scripts/check-studio3d.mjs'
+      - 'scripts/check-geometric-intelligence.mjs'
       - '.github/workflows/profile-visual-assets.yml'
   workflow_dispatch:
 
@@ -61,5 +63,7 @@ jobs:
         run: node scripts/check-live-profile.mjs
       - name: Verify historical art remains available
         run: node scripts/check-cinematic-dossier.mjs
-      - name: Verify real 3D rendering artifacts and unchanged README content
+      - name: Verify previous genuine Blender 3D artwork is safely archived
         run: node scripts/check-studio3d.mjs
+      - name: Verify the new spectral geometric 3D scenes and preserve all original profile information
+        run: node scripts/check-geometric-intelligence.mjs
