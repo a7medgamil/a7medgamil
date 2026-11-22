@@ -44,7 +44,7 @@
 
 I lead technology-enabled institutional operations and product delivery across education and software. My work combines requirement definition, cross-functional coordination, systems thinking, implementation oversight and evidence-based review. The projects below distinguish **leadership accountability**, **documented engineering checks**, and **areas still in development**.
 
-**For a 2-minute technical review:** [Run the MIYTO simulation locally](https://github.com/a7medgamil/miyto-smart-rooms-showcase/blob/main/demo/room-state-lab/README.md) · [Run the SMI operations simulation locally](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/demo/operations-case-lab/README.md) · [Inspect the QADHA battle rules demo](https://github.com/a7medgamil/qadha-platform-showcase/blob/main/demo/battle-rule-lab/README.md) · [View the fictional AIU HR prototype](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/MILESTONE1-SYNTHETIC-QA-EVIDENCE.md) · [Executive portfolio](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev) · [Evidence room](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/evidence) · [Contact](mailto:ahmed@saltrixma.com)
+**For a 2-minute technical review:** [Run the MIYTO simulation locally](https://github.com/a7medgamil/miyto-smart-rooms-showcase/blob/main/demo/room-state-lab/README.md) · [Run the SMI operations simulation locally](https://github.com/a7medgamil/smi-digital-operations-showcase/blob/main/demo/operations-case-lab/README.md) · [Inspect the QADHA battle rules demo](https://github.com/a7medgamil/qadha-platform-showcase/blob/main/demo/battle-rule-lab/README.md) · [View the fictional AIU HR prototype](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/MILESTONE1-SYNTHETIC-QA-EVIDENCE.md) · [Inspect the separate fictional AIU rules lab](https://github.com/a7medgamil/aiu-smart-hr-showcase/tree/main/lab) · [Executive portfolio](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev) · [Evidence room](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/evidence) · [Contact](mailto:ahmed@saltrixma.com)
 
 ---
 
@@ -188,7 +188,7 @@ An academic design project exploring an HR portal to summarise and rank fewer th
 
 **My role:** Computer Science student, FYP contributor and designer. The ERD was approved for university submission. Cloudflare Pages and Workers were considered as hosting options; the project is not presented as deployed, and no model-accuracy or hiring-outcome claims are made.
 
-[Public academic case study →](https://github.com/a7medgamil/aiu-smart-hr-showcase) · [Portfolio case study →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/hr-nlp-cv-summarizer)
+[Public academic case study →](https://github.com/a7medgamil/aiu-smart-hr-showcase) · [Portfolio case study →](https://ahmed-gamil-portfolio.ahmedabdulbarim.workers.dev/case-studies/hr-nlp-cv-summarizer) · [Independent synthetic lab & 7 tests →](https://github.com/a7medgamil/aiu-smart-hr-showcase/blob/main/docs/SYNTHETIC-LAB.md)
 
 <a name="capabilities"></a>
 
